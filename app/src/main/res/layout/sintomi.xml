@@ -33,7 +33,7 @@
         android:layout_height="80dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:layout_marginBottom="5dp"
+        android:layout_marginBottom="10dp"
         app:cardCornerRadius="8dp">
 
         <Button
@@ -55,7 +55,7 @@
             android:layout_height="80dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:layout_marginBottom="5dp"
+            android:layout_marginBottom="10dp"
             android:backgroundTint="@color/white"
             app:cardCornerRadius="8dp">
 
@@ -78,7 +78,7 @@
             android:layout_height="80dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:layout_marginBottom="5dp"
+            android:layout_marginBottom="10dp"
             app:cardCornerRadius="8dp">
 
         <Button
@@ -100,7 +100,7 @@
             android:layout_height="80dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:layout_marginBottom="5dp"
+            android:layout_marginBottom="10dp"
             app:cardCornerRadius="8dp">
 
         <Button
@@ -122,7 +122,7 @@
             android:layout_height="80dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:layout_marginBottom="5dp"
+            android:layout_marginBottom="10dp"
             app:cardCornerRadius="8dp">
 
         <Button
