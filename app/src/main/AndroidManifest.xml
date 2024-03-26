@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FlashCard2"
+        tools:targetApi="31">
+        <activity
+            android:name=".Homepage"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Login_gastroenterico"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".Legenda_gastroenterico"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".Patologie"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".Sintomi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".Cirrosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutiAggiuntivi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaAppendicite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaColangite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaColecistite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDisturbiAnorettali"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDiverticolite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestive"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaErnie"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCaustici"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCorpi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaInsufficienzaEpatica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIschemia"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaOcclusione"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPancreatite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPerforazione"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRMICI"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRottura"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaSindrome"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaUlcera"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDiarrea"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDisfagia"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDoloreAddominale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoStipsi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoVomito"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiAscite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiEncefalopatia"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiPeritonite"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiRotturaVarici"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutoApproccioPaziente"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutoPaziente1"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutoPaziente2"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutoSomministrazione"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutoTerapiaAnalgesica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".ContenutoTerapiaAntibiotica"
+            android:exported="true">
+        </activity>
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">FlashCard2</string>
+
+    <string name="title_app">Progetto collaborativo Scuole di Specializzazione Medicina di Emergenza-Urgenza d\'Italia</string>
+
+    <string name="title_section1">EMERGENZE-URGENZE DEL TRATTO DIGESTIVO, DEL PANCREAS E DELLE VIE BILIARI</string>
+
+    <string name="premessa1">Le flash cards come strumento utile ai medici di Medicina di Emergenza Urgenza</string>
+    <string name="premessa2">Nella pratica clinica il Medico dell\'Emergenza-Urgenza è chiamato ad affrontare molteplici quadri clinici, spesso con poco tempo a disposizione.&#10;
+                            In tale contesto la flash card rappresenta un valido strumento di supporto e consultazione che consente di accedere ad informazioni specifiche in modo rapido ed efficace.</string>
+    <string name="premessa3">Lo sviluppo delle flash cards è basato sulle evidenze e le linee guida più recenti presenti in letteratura.</string>
+    <string name="premessa4">Ogni flash card è strutturata secondo uno schema comune che prevede nome della patologia, clinica, diagnosi, diagnosi differenziale, trattamento e principali note/alert/suggerimenti.</string>
+    <string name="premessa5">Le flash cards sono state sviluppate con il supporto di <b>ITEMS (Italian Emergency Medicine Schools)</b>.</string>
+
+    <string name="start">Inizia!</string>
+
+    <string name="title_legenda">Legenda</string>
+    <string name="legenda1">Le flash cards da noi sviluppate sono state distinte in:</string>
+    <string name="legenda2">Per ogni patologia/sintomo/complicanza abbiamo posto un focus su esami di laboratorio ed esami strumentali utili alla diagnosi in PS.</string>
+    <string name="legenda3">Gli esami di laboratorio inseriti nelle flash cards sono, qualora disponibili in PS, quelli più indicati da richiedere.</string>
+    <string name="legenda4">Gli esami strumentali sono elencati secondo il criterio I° e II° livello. Per alcune patologie è indicato l\'esame diagnostico <b>gold standard</b>.</string>
+    <string name="legenda5">In alcune flash cards abbiamo ritenuto utile inserire il trattamento all\'interno delle stesse così da averne una rapida consultazione.</string>
+    <string name="legenda6">Le flash cards sul dolore addominale acuto contiene, diversamente dalle altre, un\'immagine rappresentativa di tutte le patologie da tenere in considerazione nella diagnosi differenziale.</string>
+    <string name="alert_1">Abbiamo utilizzato questo simbolo come alert/pericolo</string>
+    <string name="alert_2">Abbiamo utilizzato questo simbolo come focus su casi particolari</string>
+
+    <string name="patologie">Patologie</string>
+    <string name="sintomi">Sintomi</string>
+    <string name="complicanze">Principali complicanze della cirrosi epatica</string>
+    <string name="aggiuntivi">Contenuti aggiuntivi</string>
+    
+    */Patologie*/
+    
+    <string name="patologia_appendicite">Appendicite Acuta</string>
+    <string name="patologia_colangite">Colangite Acuta</string>
+    <string name="patologia_colecistite_acuta">Colecistite Acuta</string>
+    <string name="patologia_colelitiasi">Colelitiasi</string>
+    <string name="patologia_diverticolite">Diverticolite</string>
+    <string name="patologia_disturbi_anorettali">Disturbi ano-rettali</string>
+    <string name="patologia_emorragie_digestive">Emorragie digestive</string>
+    <string name="patologia_ernie">Ernie Addominali</string>
+    <string name="patologia_ingestione_caustici">Ingestione di caustici</string>
+    <string name="patologia_ingestione_corpi">Ingestione di corpi estranei</string>
+    <string name="patologia_insufficienza_epatica">Insufficienza epatica acuta</string>
+    <string name="patologia_ischemia">Ischemia intestinale</string>
+    <string name="patologia_occlusione">Occlusione intestinale</string>
+    <string name="patologia_pancreatite">Pancreatite acuta</string>
+    <string name="patologia_perforazione">Perforazione GI</string>
+    <string name="patologia_RMICI">Riacutizzazione Malattie Infiammatorie Croniche Intestinali</string>
+    <string name="patologia_rottura">Rottura di esofago</string>
+    <string name="patologia_sindrome">Sindrome di Mallory-Weiss</string>
+    <string name="patologia_ulcera">Ulcera peptica</string>
+
+    */Sintomi*/
+
+    <string name="sintomo_diarrea">Diarrea</string>
+    <string name="sintomo_disfagia">Disfagia</string>
+    <string name="sintomo_dolore_addominale">Dolore adddominale acuto</string>
+    <string name="sintomo_stipsi">Stipsi</string>
+    <string name="sintomo_vomito">Vomito</string>
+
+    */Complicanze della cirrosi*/
+
+    <string name="cirrosi_ascite">Ascite</string>
+    <string name="cirrosi_encefalopatia">Encefalopatia epatica</string>
+    <string name="cirrosi_peritonite">Peritonite batterica spontanea</string>
+    <string name="cirrosi_rottura_varici">Rottura varici esofagee</string>
+
+    */Contenuti aggiuntivi*/
+
+    <string name="contenuto_paziente">Approccio al paziente in PS</string>
+    <string name="contenuto_somministrazione">Schema di somministrazione ev di fluidi</string>
+    <string name="contenuto_terapia_analgesica">Schema di terapia analgesica in PS</string>
+    <string name="contenuto_terapia_antibiotica">Schema di terapia antibiotica empirica in PS</string>
+
+    */Approccio al paziente in PS*/
+
+    <string name="paziente_ps1">Valutazione primaria</string>
+    <string name="paziente_ps2">Valutazione secondaria</string>
+
+    */Valutazione primaria*/
+    <string name="paziente_valutazione1"><b>Valutazione primaria:</b> Approccio <b>A B C D E</b></string>
+    <string name="paziente_valutazioneA1"><b>Pervietà delle vie aeree</b>: ispezione del cavo orale</string>
+    <string name="paziente_valutazioneA2">Se impossibilità a mantenere pervie le vie aeree, basso GCS(&lt;8), trauma cranio-facciale o difficoltà a ventilare/ossigenare: IOT</string>
+    <string name="paziente_valutazioneB1"><b>Respirazione</b>: ispezione, auscultazione, palpazione</string>
+    <string name="paziente_valutazioneB2">Se insufficienza respiratoria acuta: valuta dispositivi O2 terapia, IOT</string>
+    <string name="paziente_valutazioneC1"><b>Circolazione</b>:valutare se il paziente è ipovolemico</string>
+    <string name="paziente_valutazioneC2">Se PAS &lt; 100mmHg, FC &gt; 90bpm, riempimento capillare &gt; 2sec, FR &gt; 20 atti/min. diuresi &lt; 0.5ml/kg/h, alterato stato mentale: 2 CVP 14-16 G e rianimazione con fluidi (vedi schema)</string>
+    <string name="paziente_valutazioneC3">(vedi schema)</string>
+    <string name="paziente_valutazioneD1"><b>Disturbi neurologici</b>: GCS, EON, valutazione delle pupille</string>
+    <string name="paziente_valutazioneE1">Esposizione completa del paziente, logroll, valutazione testa-piedi, prevenzione dell\'ipotermia</string>
+    <string name="paziente_valutazione_generale">Integrare la valutazione primaria con: ecofast, RX a letto, ECG, esami ematici, imaging di II livello</string>
+    <string name="paziente_alert"><b>Triade della morte: coagulopatia, ipotermia, acidosi</b></string>
+
+    */Valutazione secondaria*/
+    <string name="paziente_valutazione2A"><b>Anamnesi: SAMPLE</b></string>
+    <string name="paziente_valutazione2AS">Segni e sintomi</string>
+    <string name="paziente_valutazione2AA">Allergie (a farmaci o altre sostanze)</string>
+    <string name="paziente_valutazione2AM">Medicine (terapie in atto)</string>
+    <string name="paziente_valutazione2AP">Patologie pregresse (anamnesi patologica remota e recente)</string>
+    <string name="paziente_valutazione2AL">Last lunch (ultimo pasto)</string>
+    <string name="paziente_valutazione2AE">Evento (come si è verificato l\'evento) o Esami (eseguiti dal paziente)</string>
+    <string name="paziente_valutazione2B"><b>Esame obiettivo testa piedi</b></string>
+    <string name="paziente_valutazione2B1">Capo, occhi, massiccio facciale, colonna cervicale, collo</string>
+    <string name="paziente_valutazione2B2">EO torace: <b>OPACS</b></string>
+    <string name="paziente_valutazione2B2O">osserva i movimenti respiratori</string>
+    <string name="paziente_valutazione2B2P">palpa il torace (ricerca enfisema sottocutaneo)</string>
+    <string name="paziente_valutazione2B2A">ascolta i rumori respiratori</string>
+    <string name="paziente_valutazione2B2C">conta la frequenza respiratoria</string>
+    <string name="paziente_valutazione2B2S">saturimetro</string>
+    <string name="paziente_valutazione2B3">EO addome: Ispezione, Palpazione, Percussione, Auscultazione</string>
+    <string name="paziente_valutazione2B4">EO neurologico</string>
+    <string name="paziente_valutazione2_generale">Integrare la valutazione secondaria con: ecografia bedside, ECG, esami ematici, RX, imaging di II livello</string>
+
+</resources>

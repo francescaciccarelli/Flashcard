@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="shape_grey">#80FFFFFF</color>
+    <color name="blu_persia">#1C39BB</color>
+    <color name="blu_reale">#4169E1</color>
+    <color name="green">#33cd32</color>
+    <color name="dark_green">#186436</color>
+    <color name="bronzo">#CD7F32</color>
+    <color name="senape">#FFDB58</color>
+    <color name="azzurro">#ABCDEF</color>
+    <color name="giallo">#FFFF00</color>
+    <color name="rosso">#DC143C</color>
+    <color name="grigio">#EFEFEF</color>
+
+</resources>
