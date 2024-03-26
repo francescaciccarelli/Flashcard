@@ -25,15 +25,16 @@
         android:textAlignment="center"
         android:textStyle="bold"
         android:layout_margin="10dp"
-        android:textSize="50dp"
-        android:background="@drawable/border_shape_nogreen"/>
+        android:textColor="@color/white"
+        android:textSize="50dp" />
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="80dp"
-        android:layout_margin="20dp"
-        android:layout_marginBottom="16dp"
-        app:cardCornerRadius="20dp">
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        app:cardCornerRadius="8dp">
 
         <Button
             android:id="@+id/diarrea_button"
@@ -44,18 +45,19 @@
             android:text="@string/sintomo_diarrea"
             android:textAlignment="center"
             android:textColor="@color/dark_green"
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
 
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_margin="20dp"
-        android:layout_marginBottom="16dp"
-        android:backgroundTint="@color/white"
-        app:cardCornerRadius="20dp">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="@color/white"
+            app:cardCornerRadius="8dp">
 
         <Button
             android:id="@+id/disfagia_button"
@@ -66,18 +68,18 @@
             android:text="@string/sintomo_disfagia"
             android:textAlignment="center"
             android:textColor="@color/dark_green"
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
 
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_margin="20dp"
-        android:layout_marginBottom="16dp"
-        android:backgroundTint="@color/white"
-        app:cardCornerRadius="20dp">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            app:cardCornerRadius="8dp">
 
         <Button
             android:id="@+id/dolore_button"
@@ -88,18 +90,18 @@
             android:text="@string/sintomo_dolore_addominale"
             android:textAlignment="center"
             android:textColor="@color/dark_green"
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
 
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_margin="20dp"
-        android:layout_marginBottom="16dp"
-        android:backgroundTint="@color/white"
-        app:cardCornerRadius="20dp">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            app:cardCornerRadius="8dp">
 
         <Button
             android:id="@+id/stipsi_button"
@@ -110,17 +112,18 @@
             android:text="@string/sintomo_stipsi"
             android:textAlignment="center"
             android:textColor="@color/dark_green"
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
 
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_margin="20dp"
-        android:layout_marginBottom="16dp"
-        app:cardCornerRadius="20dp">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            app:cardCornerRadius="8dp">
 
         <Button
             android:id="@+id/vomito_button"
@@ -131,7 +134,7 @@
             android:text="@string/sintomo_vomito"
             android:textAlignment="center"
             android:textColor="@color/dark_green"
-            android:textSize="30sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>

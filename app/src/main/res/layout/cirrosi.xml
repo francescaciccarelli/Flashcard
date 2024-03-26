@@ -31,9 +31,8 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/ascite_button"
@@ -52,10 +51,8 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/encefalopatia_button"
@@ -74,10 +71,8 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/peritonite_button"
@@ -96,10 +91,8 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/rottura_varici_button"

@@ -46,7 +46,7 @@
     <string name="patologia_occlusione">Occlusione intestinale</string>
     <string name="patologia_pancreatite">Pancreatite acuta</string>
     <string name="patologia_perforazione">Perforazione GI</string>
-    <string name="patologia_RMICI">Riacutizzazione Malattie Infiammatorie Croniche Intestinali</string>
+    <string name="patologia_RMICI">Riacutizzazione MICI</string>
     <string name="patologia_rottura">Rottura di esofago</string>
     <string name="patologia_sindrome">Sindrome di Mallory-Weiss</string>
     <string name="patologia_ulcera">Ulcera peptica</string>

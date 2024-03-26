@@ -30,10 +30,9 @@
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/appendicite_button"
@@ -44,18 +43,16 @@
                 android:text="@string/patologia_appendicite"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/colangite_button"
@@ -66,18 +63,16 @@
                 android:text="@string/patologia_colangite"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/colecistite_button"
@@ -88,18 +83,16 @@
                 android:text="@string/patologia_colecistite_acuta"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/colelitiasi_button"
@@ -110,17 +103,16 @@
                 android:text="@string/patologia_colelitiasi"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/diverticolite_button"
@@ -131,17 +123,16 @@
                 android:text="@string/patologia_diverticolite"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/disturbi_anorettali_button"
@@ -152,17 +143,16 @@
                 android:text="@string/patologia_disturbi_anorettali"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/emorragie_button"
@@ -173,17 +163,16 @@
                 android:text="@string/patologia_emorragie_digestive"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/ernie_button"
@@ -194,17 +183,16 @@
                 android:text="@string/patologia_ernie"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/ingestione_caustici_button"
@@ -215,38 +203,35 @@
                 android:text="@string/patologia_ingestione_caustici"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/ingestione_corpi_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/patologia_ingestione_corpi"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/insufficienza_epatica_button"
@@ -257,17 +242,16 @@
                 android:text="@string/patologia_insufficienza_epatica"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/ischemia_button"
@@ -278,17 +262,16 @@
                 android:text="@string/patologia_ischemia"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/occlusione_button"
@@ -299,17 +282,16 @@
                 android:text="@string/patologia_occlusione"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/pancreatite_button"
@@ -320,17 +302,16 @@
                 android:text="@string/patologia_pancreatite"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/perforazione_button"
@@ -341,17 +322,16 @@
                 android:text="@string/patologia_perforazione"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/rmici_button"
@@ -362,17 +342,16 @@
                 android:text="@string/patologia_RMICI"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="20sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/rottura_button"
@@ -383,38 +362,36 @@
                 android:text="@string/patologia_rottura"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/sindrome_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/patologia_sindrome"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/ulcera_button"
@@ -425,7 +402,7 @@
                 android:text="@string/patologia_ulcera"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>

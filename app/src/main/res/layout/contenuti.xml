@@ -30,87 +30,76 @@
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/paziente_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/contenuto_paziente"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/somministrazione_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/contenuto_somministrazione"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/terapia_analgesica_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/contenuto_terapia_analgesica"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_margin="20dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            app:cardCornerRadius="20dp">
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="20dp" >
 
             <Button
                 android:id="@+id/terapia_antibiotica_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/contenuto_terapia_antibiotica"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>

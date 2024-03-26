@@ -16,6 +16,12 @@
         android:orientation="vertical"
         tools:context=".Homepage">
 
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:src="@drawable/loto_items"
+            android:layout_gravity="center"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
