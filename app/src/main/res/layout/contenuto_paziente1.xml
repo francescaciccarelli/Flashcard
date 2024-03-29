@@ -24,19 +24,19 @@
             android:text="@string/contenuto_paziente"
             android:layout_gravity="center"
             android:layout_marginBottom="25dp"
-            android:padding="5dp"
             android:textSize="30dp"
             android:textStyle="bold"
             android:textAlignment="center"
-            android:background="@drawable/border_shape_nogreen"/>
+            android:textColor="@color/white"
+            android:fontFamily="@font/font_avenir_heavy"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="10dp"
             android:layout_gravity="center"
-            android:textSize="20dp"
-            android:text="@string/paziente_valutazione1" />
+            android:textSize="19dp"
+            android:text="@string/paziente_valutazione1"
+            android:fontFamily="@font/font_sofiapro"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -49,9 +49,10 @@
                 android:layout_margin="20dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="A"
-                android:textSize="30dp"
+                android:textSize="25dp"
                 android:textAlignment="center"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -62,12 +63,14 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneA1"/>
+                    android:text="@string/paziente_valutazioneA1"
+                    android:fontFamily="@font/font_sofiapro"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneA2"/>
+                    android:text="@string/paziente_valutazioneA2"
+                    android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -83,9 +86,10 @@
                 android:layout_margin="20dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="B"
-                android:textSize="30dp"
+                android:textSize="25dp"
                 android:textAlignment="center"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -96,12 +100,14 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneB1"/>
+                    android:text="@string/paziente_valutazioneB1"
+                    android:fontFamily="@font/font_sofiapro"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneB2"/>
+                    android:text="@string/paziente_valutazioneB2"
+                    android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
 
@@ -118,9 +124,10 @@
                 android:layout_margin="20dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="C"
-                android:textSize="30dp"
+                android:textSize="25dp"
                 android:textAlignment="center"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -130,12 +137,14 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneC1"/>
+                    android:text="@string/paziente_valutazioneC1"
+                    android:fontFamily="@font/font_sofiapro"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneC2"/>
+                    android:text="@string/paziente_valutazioneC2"
+                    android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
 
@@ -152,9 +161,10 @@
                 android:layout_margin="20dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="D"
-                android:textSize="30dp"
+                android:textSize="25dp"
                 android:textAlignment="center"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -165,7 +175,8 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneD1"/>
+                    android:text="@string/paziente_valutazioneD1"
+                    android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -181,9 +192,10 @@
                 android:layout_margin="20dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="E"
-                android:textSize="30dp"
+                android:textSize="25dp"
                 android:textAlignment="center"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -194,7 +206,8 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/paziente_valutazioneE1"/>
+                    android:text="@string/paziente_valutazioneE1"
+                    android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -203,7 +216,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/paziente_valutazione_generale"
-            android:layout_margin="20dp"/>
+            android:layout_margin="20dp"
+            android:fontFamily="@font/font_sofiapro"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -223,7 +237,8 @@
                 android:text="@string/paziente_alert"
                 android:layout_gravity="center"
                 android:paddingLeft="10dp"
-                android:paddingBottom="5dp"/>
+                android:paddingBottom="5dp"
+                android:fontFamily="@font/font_sofiapro"/>
         </LinearLayout>
 
     </LinearLayout>

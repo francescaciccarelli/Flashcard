@@ -19,42 +19,58 @@
         tools:context=".ContenutoApproccioPaziente">
 
         <TextView
-            android:layout_width="400dp"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/contenuto_paziente"
             android:layout_gravity="center"
             android:layout_marginBottom="25dp"
-            android:padding="30dp"
-            android:textSize="50dp"
+            android:textSize="38dp"
             android:textStyle="bold"
             android:textAlignment="center"
-            android:background="@drawable/border_shape_nogreen"/>
+            android:textColor="@color/white"
+            android:fontFamily="@font/font_avenir_heavy"/>
 
-        <Button
-            android:id="@+id/button_valutazione1"
-            android:layout_width="350dp"
-            android:layout_height="200dp"
-            android:layout_gravity="center"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/white"
-            android:textSize="30dp"
-            android:textColor="@color/bronzo"
-            android:text="@string/paziente_ps1"
-            android:textAlignment="center"
-            android:padding="50dp"/>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
-        <Button
-            android:id="@+id/button_valutazione2"
-            android:layout_width="350dp"
-            android:layout_height="200dp"
-            android:layout_gravity="center"
-            android:layout_marginTop="16dp"
-            android:backgroundTint="@color/white"
-            android:textSize="30dp"
-            android:textColor="@color/bronzo"
-            android:text="@string/paziente_ps2"
-            android:textAlignment="center"
-            android:padding="50dp"/>
+            <Button
+                android:id="@+id/button_valutazione1"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:backgroundTint="@android:color/transparent"
+                android:textSize="25sp"
+                android:textColor="@color/senape"
+                android:text="@string/paziente_ps1"
+                android:textAlignment="center"
+                android:fontFamily="@font/font_sofiapro"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
+
+            <Button
+                android:id="@+id/button_valutazione2"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:backgroundTint="@android:color/transparent"
+                android:textSize="25sp"
+                android:textColor="@color/senape"
+                android:text="@string/paziente_ps2"
+                android:textAlignment="center"
+                android:fontFamily="@font/font_sofiapro"/>
+
+        </androidx.cardview.widget.CardView>
 
     </LinearLayout>
 

@@ -26,7 +26,8 @@
         android:textStyle="bold"
         android:layout_margin="10dp"
         android:textColor="@color/white"
-        android:textSize="50dp" />
+        android:textSize="38dp"
+        android:fontFamily="@font/font_avenir_heavy"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -46,7 +47,8 @@
             android:textAlignment="center"
             android:textColor="@color/dark_green"
             android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/font_sofiapro"/>
 
     </androidx.cardview.widget.CardView>
 
@@ -69,7 +71,8 @@
             android:textAlignment="center"
             android:textColor="@color/dark_green"
             android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/font_sofiapro"/>
 
     </androidx.cardview.widget.CardView>
 
@@ -91,7 +94,8 @@
             android:textAlignment="center"
             android:textColor="@color/dark_green"
             android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/font_sofiapro"/>
 
     </androidx.cardview.widget.CardView>
 
@@ -113,7 +117,8 @@
             android:textAlignment="center"
             android:textColor="@color/dark_green"
             android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/font_sofiapro"/>
 
     </androidx.cardview.widget.CardView>
 
@@ -135,7 +140,8 @@
             android:textAlignment="center"
             android:textColor="@color/dark_green"
             android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/font_sofiapro"/>
 
     </androidx.cardview.widget.CardView>
 

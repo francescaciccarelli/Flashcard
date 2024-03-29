@@ -25,14 +25,17 @@
             android:textAlignment="center"
             android:textStyle="bold"
             android:layout_margin="10dp"
-            android:textSize="50dp"
-            android:background="@drawable/border_shape_nogreen"/>
+            android:textColor="@color/white"
+            android:textSize="38dp"
+            android:fontFamily="@font/font_avenir_heavy"/>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/appendicite_button"
@@ -44,15 +47,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/colangite_button"
@@ -64,15 +70,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/colecistite_button"
@@ -84,15 +93,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/colelitiasi_button"
@@ -104,15 +116,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/diverticolite_button"
@@ -124,15 +139,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/disturbi_anorettali_button"
@@ -144,15 +162,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/emorragie_button"
@@ -164,15 +185,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/ernie_button"
@@ -184,15 +208,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/ingestione_caustici_button"
@@ -204,15 +231,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/ingestione_corpi_button"
@@ -223,15 +253,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/insufficienza_epatica_button"
@@ -243,15 +276,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/ischemia_button"
@@ -263,15 +299,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/occlusione_button"
@@ -283,15 +322,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/pancreatite_button"
@@ -303,15 +345,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/perforazione_button"
@@ -323,15 +368,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/rmici_button"
@@ -343,15 +391,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/rottura_button"
@@ -363,15 +414,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/sindrome_button"
@@ -383,15 +437,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/ulcera_button"
@@ -403,7 +460,8 @@
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 

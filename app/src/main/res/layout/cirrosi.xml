@@ -24,15 +24,17 @@
             android:text="@string/complicanze"
             android:textAlignment="center"
             android:textStyle="bold"
-            android:layout_margin="10dp"
-            android:textSize="35dp"
-            android:background="@drawable/border_shape_nogreen"/>
+            android:textSize="38dp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/font_avenir_heavy"/>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/ascite_button"
@@ -43,16 +45,19 @@
                 android:text="@string/cirrosi_ascite"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
-                android:textStyle="bold" />
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/encefalopatia_button"
@@ -63,16 +68,19 @@
                 android:text="@string/cirrosi_encefalopatia"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
-                android:textStyle="bold" />
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/peritonite_button"
@@ -83,16 +91,19 @@
                 android:text="@string/cirrosi_peritonite"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
-                android:textStyle="bold" />
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_margin="10dp"
-            app:cardCornerRadius="20dp" >
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="8dp" >
 
             <Button
                 android:id="@+id/rottura_varici_button"
@@ -103,8 +114,9 @@
                 android:text="@string/cirrosi_rottura_varici"
                 android:textAlignment="center"
                 android:textColor="@color/bronzo"
-                android:textSize="30sp"
-                android:textStyle="bold" />
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/font_sofiapro"/>
 
         </androidx.cardview.widget.CardView>
 
