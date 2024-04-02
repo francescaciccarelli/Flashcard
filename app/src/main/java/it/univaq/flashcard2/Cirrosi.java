@@ -8,6 +8,7 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class Cirrosi extends AppCompatActivity {
+    Button backbutton;
     Button ascite;
     Button encefalopatia;
     Button peritonite;
@@ -18,10 +19,18 @@ public class Cirrosi extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.cirrosi);
 
+        backbutton = findViewById(R.id.back_button_gastroenterico_cirrosi);
         ascite = findViewById(R.id.ascite_button);
         encefalopatia = findViewById(R.id.encefalopatia_button);
         peritonite = findViewById(R.id.peritonite_button);
         rotturaVarici = findViewById(R.id.rottura_varici_button);
+
+        backbutton.setOnClickListener(new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+              startActivity(new Intent(Cirrosi.this, Login_gastroenterico.class));
+          }
+        });
 
         ascite.setOnClickListener(new View.OnClickListener() {
             @Override

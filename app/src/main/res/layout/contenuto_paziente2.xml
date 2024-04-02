@@ -7,16 +7,30 @@
     xmlns:card.view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="20dp"
     android:orientation="vertical"
     android:background="@color/senape">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:paddingTop="5dp"
         android:orientation="vertical"
         tools:context=".ContenutoApproccioPaziente">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/back_button_paziente2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/baseline_arrow_back_24"
+                android:backgroundTint="@color/white" />
+
+        </LinearLayout>
 
         <TextView
             android:layout_width="wrap_content"
@@ -70,7 +84,7 @@
             android:text="@string/paziente_valutazione2AS"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:textSize="18dp"
+            android:textSize="13dp"
             android:fontFamily="@font/font_sofiapro"/>
 
     </LinearLayout>
@@ -97,7 +111,7 @@
             android:text="@string/paziente_valutazione2AA"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:textSize="18dp"
+            android:textSize="13dp"
             android:fontFamily="@font/font_sofiapro"/>
 
     </LinearLayout>
@@ -124,7 +138,7 @@
             android:text="@string/paziente_valutazione2AM"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:textSize="18dp"
+            android:textSize="13dp"
             android:fontFamily="@font/font_sofiapro"/>
 
     </LinearLayout>
@@ -151,7 +165,7 @@
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2AP"
                 android:layout_gravity="center"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -178,7 +192,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2AL"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -192,7 +206,6 @@
                 android:layout_width="36dp"
                 android:layout_height="38dp"
                 android:layout_marginLeft="20dp"
-                android:layout_marginTop="5dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="E"
                 android:textAlignment="center"
@@ -206,7 +219,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2AE"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -238,7 +251,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B1"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -261,7 +274,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -289,7 +302,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2O"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -303,7 +316,6 @@
                 android:layout_width="36dp"
                 android:layout_height="38dp"
                 android:layout_marginLeft="40dp"
-                android:layout_marginTop="5dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="P"
                 android:textAlignment="center"
@@ -317,7 +329,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2P"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -330,7 +342,6 @@
                 android:layout_width="36dp"
                 android:layout_height="38dp"
                 android:layout_marginLeft="40dp"
-                android:layout_marginTop="5dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="A"
                 android:textAlignment="center"
@@ -344,7 +355,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2A"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -357,7 +368,6 @@
                 android:layout_width="36dp"
                 android:layout_height="38dp"
                 android:layout_marginLeft="40dp"
-                android:layout_marginTop="5dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="C"
                 android:textAlignment="center"
@@ -371,7 +381,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2C"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -384,7 +394,6 @@
                 android:layout_width="36dp"
                 android:layout_height="38dp"
                 android:layout_marginLeft="40dp"
-                android:layout_marginTop="5dp"
                 android:background="@drawable/baseline_circle_24"
                 android:text="S"
                 android:textAlignment="center"
@@ -398,7 +407,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2S"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -420,7 +429,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B3"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -442,7 +451,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B4"
-                android:textSize="18dp"
+                android:textSize="13dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -450,7 +459,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/paziente_valutazione2_generale"
-            android:textSize="18dp"
+            android:textSize="13dp"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="10dp"
             android:fontFamily="@font/font_sofiapro"/>

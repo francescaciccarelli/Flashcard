@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class Sintomi extends AppCompatActivity {
 
+    Button backbutton;
     Button diarrea;
     Button disfagia;
     Button dolore;
@@ -20,11 +21,19 @@ public class Sintomi extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sintomi);
 
+        backbutton = findViewById(R.id.back_button_gastroenterico_sintomi);
         diarrea = findViewById(R.id.diarrea_button);
         disfagia = findViewById(R.id.disfagia_button);
         dolore = findViewById(R.id.dolore_button);
         stipsi = findViewById(R.id.stipsi_button);
         vomito = findViewById(R.id.vomito_button);
+
+        backbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Sintomi.this, Login_gastroenterico.class));
+            }
+        });
 
         diarrea.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -7,7 +7,6 @@
     xmlns:card.view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="20dp"
     android:orientation="vertical"
     android:background="@color/senape">
 
@@ -17,6 +16,21 @@
         android:paddingTop="5dp"
         android:orientation="vertical"
         tools:context=".ContenutoApproccioPaziente">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/back_button_paziente"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/baseline_arrow_back_24"
+                android:backgroundTint="@color/white" />
+
+        </LinearLayout>
 
         <TextView
             android:layout_width="match_parent"
@@ -33,9 +47,7 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:layout_marginBottom="10dp"
+            android:layout_margin="10dp"
             app:cardCornerRadius="8dp" >
 
             <Button
@@ -54,9 +66,7 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:layout_marginBottom="10dp"
+            android:layout_margin="10dp"
             app:cardCornerRadius="8dp" >
 
             <Button

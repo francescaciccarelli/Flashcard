@@ -8,6 +8,7 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class Patologie extends AppCompatActivity {
+Button backbutton;
 Button appendicite;
 Button colangite;
 Button colecistite;
@@ -33,6 +34,7 @@ Button ulcera;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.patologie);
 
+        backbutton = findViewById(R.id.back_button_gastroenterico_patologie);
         appendicite = findViewById(R.id.appendicite_button);
         colangite = findViewById(R.id.colangite_button);
         colecistite = findViewById(R.id.colecistite_button);
@@ -52,6 +54,13 @@ Button ulcera;
         rottura = findViewById(R.id.rottura_button);
         sindrome = findViewById(R.id.sindrome_button);
         ulcera = findViewById(R.id.ulcera_button);
+
+        backbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Patologie.this, Login_gastroenterico.class));
+            }
+        });
 
         appendicite.setOnClickListener(new View.OnClickListener() {
             @Override

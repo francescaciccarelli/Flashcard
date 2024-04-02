@@ -7,7 +7,6 @@
     xmlns:card.view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="20dp"
     android:orientation="vertical"
     android:background="@color/senape">
 
@@ -17,6 +16,21 @@
         android:paddingTop="5dp"
         android:orientation="vertical"
         tools:context=".ContenutoApproccioPaziente">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/back_button_paziente1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/baseline_arrow_back_24"
+                android:backgroundTint="@color/white" />
+
+        </LinearLayout>
 
         <TextView
             android:layout_width="wrap_content"
@@ -64,12 +78,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneA1"
+                    android:textSize="13dp"
                     android:fontFamily="@font/font_sofiapro"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneA2"
+                    android:textSize="13dp"
                     android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
@@ -101,13 +117,15 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneB1"
-                    android:fontFamily="@font/font_sofiapro"/>
+                    android:fontFamily="@font/font_sofiapro"
+                    android:textSize="13dp"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneB2"
-                    android:fontFamily="@font/font_sofiapro"/>
+                    android:fontFamily="@font/font_sofiapro"
+                    android:textSize="13dp"/>
 
             </LinearLayout>
 
@@ -138,13 +156,15 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneC1"
-                    android:fontFamily="@font/font_sofiapro"/>
+                    android:fontFamily="@font/font_sofiapro"
+                    android:textSize="13dp"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneC2"
-                    android:fontFamily="@font/font_sofiapro"/>
+                    android:fontFamily="@font/font_sofiapro"
+                    android:textSize="13dp"/>
 
             </LinearLayout>
 
@@ -176,7 +196,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneD1"
-                    android:fontFamily="@font/font_sofiapro"/>
+                    android:fontFamily="@font/font_sofiapro"
+                    android:textSize="13dp"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -207,7 +228,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneE1"
-                    android:fontFamily="@font/font_sofiapro"/>
+                    android:fontFamily="@font/font_sofiapro"
+                    android:textSize="13dp"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -217,7 +239,8 @@
             android:layout_height="wrap_content"
             android:text="@string/paziente_valutazione_generale"
             android:layout_margin="20dp"
-            android:fontFamily="@font/font_sofiapro"/>
+            android:fontFamily="@font/font_sofiapro"
+            android:textSize="13dp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -238,7 +261,8 @@
                 android:layout_gravity="center"
                 android:paddingLeft="10dp"
                 android:paddingBottom="5dp"
-                android:fontFamily="@font/font_sofiapro"/>
+                android:fontFamily="@font/font_sofiapro"
+                android:textSize="13dp"/>
         </LinearLayout>
 
     </LinearLayout>
