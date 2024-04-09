@@ -16,7 +16,7 @@
         android:orientation="vertical"
         tools:context=".Patologie">
 
-    <LinearLayout
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -26,10 +26,21 @@
             android:id="@+id/back_button_gastroenterico_patologie"
             android:layout_width="50dp"
             android:layout_height="50dp"
+            android:layout_alignParentStart="true"
             android:background="@drawable/baseline_arrow_back_24"
             android:backgroundTint="@color/white"/>
 
-    </LinearLayout>
+        <ImageView
+            android:id="@+id/view_login_gastroenterico"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/baseline_menu_24"
+            android:clickable="true"
+            android:focusable="true"
+            android:backgroundTint="@color/white"/>
+
+    </RelativeLayout>
 
         <TextView
             android:layout_width="wrap_content"
@@ -49,7 +60,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
-            app:cardCornerRadius="8dp" >
+            app:cardCornerRadius="8dp">
 
             <Button
                 android:id="@+id/appendicite_button"
@@ -284,7 +295,6 @@
                 android:id="@+id/insufficienza_epatica_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/patologia_insufficienza_epatica"
                 android:textAlignment="center"
@@ -445,7 +455,6 @@
                 android:id="@+id/sindrome_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="5dp"
                 android:backgroundTint="@android:color/transparent"
                 android:text="@string/patologia_sindrome"
                 android:textAlignment="center"

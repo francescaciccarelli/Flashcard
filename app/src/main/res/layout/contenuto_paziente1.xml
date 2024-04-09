@@ -48,7 +48,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="19dp"
+            android:textSize="20dp"
             android:text="@string/paziente_valutazione1"
             android:fontFamily="@font/font_sofiapro"/>
 
@@ -78,14 +78,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneA1"
-                    android:textSize="13dp"
+                    android:textSize="18dp"
                     android:fontFamily="@font/font_sofiapro"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneA2"
-                    android:textSize="13dp"
+                    android:textSize="18dp"
                     android:fontFamily="@font/font_sofiapro"/>
 
             </LinearLayout>
@@ -118,14 +118,14 @@
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneB1"
                     android:fontFamily="@font/font_sofiapro"
-                    android:textSize="13dp"/>
+                    android:textSize="18dp"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneB2"
                     android:fontFamily="@font/font_sofiapro"
-                    android:textSize="13dp"/>
+                    android:textSize="18dp"/>
 
             </LinearLayout>
 
@@ -157,14 +157,14 @@
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneC1"
                     android:fontFamily="@font/font_sofiapro"
-                    android:textSize="13dp"/>
+                    android:textSize="18dp"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneC2"
                     android:fontFamily="@font/font_sofiapro"
-                    android:textSize="13dp"/>
+                    android:textSize="18dp"/>
 
             </LinearLayout>
 
@@ -197,7 +197,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneD1"
                     android:fontFamily="@font/font_sofiapro"
-                    android:textSize="13dp"/>
+                    android:textSize="18dp"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -229,7 +229,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/paziente_valutazioneE1"
                     android:fontFamily="@font/font_sofiapro"
-                    android:textSize="13dp"/>
+                    android:textSize="18dp"/>
 
             </LinearLayout>
         </LinearLayout>
@@ -240,7 +240,7 @@
             android:text="@string/paziente_valutazione_generale"
             android:layout_margin="20dp"
             android:fontFamily="@font/font_sofiapro"
-            android:textSize="13dp"/>
+            android:textSize="18dp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -262,7 +262,7 @@
                 android:paddingLeft="10dp"
                 android:paddingBottom="5dp"
                 android:fontFamily="@font/font_sofiapro"
-                android:textSize="13dp"/>
+                android:textSize="18dp"/>
         </LinearLayout>
 
     </LinearLayout>

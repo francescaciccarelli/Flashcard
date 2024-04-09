@@ -84,7 +84,7 @@
             android:text="@string/paziente_valutazione2AS"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:textSize="13dp"
+            android:textSize="18dp"
             android:fontFamily="@font/font_sofiapro"/>
 
     </LinearLayout>
@@ -111,7 +111,7 @@
             android:text="@string/paziente_valutazione2AA"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:textSize="13dp"
+            android:textSize="18dp"
             android:fontFamily="@font/font_sofiapro"/>
 
     </LinearLayout>
@@ -138,7 +138,7 @@
             android:text="@string/paziente_valutazione2AM"
             android:layout_gravity="center"
             android:layout_margin="10dp"
-            android:textSize="13dp"
+            android:textSize="18dp"
             android:fontFamily="@font/font_sofiapro"/>
 
     </LinearLayout>
@@ -165,7 +165,7 @@
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2AP"
                 android:layout_gravity="center"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -192,7 +192,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2AL"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -219,7 +219,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2AE"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -251,7 +251,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B1"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -274,7 +274,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -302,7 +302,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2O"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -329,7 +329,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2P"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -355,7 +355,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2A"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -381,7 +381,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2C"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -407,7 +407,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B2S"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -429,7 +429,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B3"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -451,7 +451,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="10dp"
                 android:text="@string/paziente_valutazione2B4"
-                android:textSize="13dp"
+                android:textSize="18dp"
                 android:fontFamily="@font/font_sofiapro"/>
 
         </LinearLayout>
@@ -459,7 +459,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/paziente_valutazione2_generale"
-            android:textSize="13dp"
+            android:textSize="18dp"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="10dp"
             android:fontFamily="@font/font_sofiapro"/>

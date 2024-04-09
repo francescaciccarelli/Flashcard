@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="clinica">Clinica</string>
+    <string name="diagnosi">Diagnosi</string>
+    <string name="diagnosi_differenziale">Diagnosi differenziale</string>
+    <string name="trattamento">Trattamento</string>
+    <string name="note1">Note</string>
+
+    */Diarrea*/
+
+
+    <string name="diarrea_clinica1">valutare numero scariche, insorgenza e durata (acuta &#60;4 giorni vs cronica >4 settimane), consistenza e colore, presenza di muco o sangue</string>
+    <string name="diarrea_clinica2">Fattori di rischio: tossinfezioni alimentari, recente ricovero ospedaliero, intervento chirurgico, recenti viaggi all’estero, uso di lassativi, IPP o antibiotici</string>
+    <string name="diarrea_clinica3"><b>Sintomi associati: </b>febbre, artralgie/mialgie, vomito, cefalea</string>
+    <string name="diarrea_clinica4">Segni di disidratazione: ipoperfusione, ipotensione fino allo shock</string>
+
+    <string name="diarrea_diagnosi_lab">Laboratorio</string>
+    <string name="diarrea_diagnosi_strumentale">Strumentale</string>
+    <string name="diarrea_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+    <string name="diarrea_diagnosi_lab2">PCT se febbre</string>
+    <string name="diarrea_diagnosi_lab3">EGA</string>
+    <string name="diarrea_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="diarrea_diagnosi_strumentale2"><b>RX addome</b></string>
+    <string name="diarrea_diagnosi_strumentale3"><b>TC addome con e smdc</b></string>
+
+    <string name="diarrea_diagnosi_diff1">Acquisita in comunità: durata maggiore di 24/48h</string>
+    <string name="diarrea_diagnosi_diff2">Diarrea del viaggiatore: si manifesta entro 2-5 gg dall\'arrivo in un paese in via di sviluppo</string>
+    <string name="diarrea_diagnosi_diff3">Perforazione intestinale, megacolon tossico, colite ischemica, occlusione intestinale</string>
+
+    <string name="diarrea_trattamento1">Fluido terapia e terapia analgesica (vedi schemi)</string>
+    <string name="diarrea_trattamento2">Antibioticoterapia solo se indicata (vedi schema)</string>
+    <string name="diarrea_trattamento3">Probiotici</string>
+    <string name="diarrea_trattamento4">Loperamide 2 mg 2 cp per OS alla I somministrazione, poi 1 cp dopo ogni scarica diarroica fino ad un max di 6 cp ogni 24h</string>
+    <string name="diarrea_trattamento5">Scopolamina 10 mg 1-2cp per OS ogni 8h (da evitare in diarrea infiammatoria, infettiva e sanguinolenta)</string>
+
+    */Disfagia*/
+
+    <string name="disfagia_clinica1">Impossibilità a deglutire o sensazione di deglutizione difficoltosa per liquidi e/o solidi</string>
+    <string name="disfagia_clinica2">Soffocamento/Asfissia</string>
+    <string name="disfagia_clinica3">Calo ponderale</string>
+    <string name="disfagia_clinica4">Rigurgito acido, dolore toracico</string>
+    <string name="disfagia_clinica5"><b>OSTRUTTIVA</b> (Esordio <u>solo solidi</u>)</string>
+    <string name="disfagia_clinica6">Intermittente (Esofagite eosinofila)</string>
+    <string name="disfagia_clinica7">Progressiva (Cancro esofageo; Stenosi peptica)</string>
+    <string name="disfagia_clinica8"><b>MOTORIA</b> (Esordio <u>solo liquidi o solidi + liquidi</u>)</string>
+    <string name="disfagia_clinica9">Intermittente (Spasmo esofageo diffuso)</string>
+    <string name="disfagia_clinica10">Progressiva (Sclerodermia; Acalasia)</string>
+    <string name="disfagia_clinica11">Disfagia per solidi +</string>
+    <string name="disfagia_clinica11a">calo ponderale +</string>
+    <string name="disfagia_clinica11b">raucedine</string>
+    <string name="disfagia_clinica12"><b><u>CANCRO ESOFAGEO</u></b></string>
+    <string name="disfagia_clinica13">Se DISFAGIA ACUTA (improvvisa) escludere l\'ischemia del circolo posteriore e la Miastenia Gravis</string>
+
+    <string name="disfagia_diagnosi_lab1"><b>Laboratorio</b></string>
+    <string name="disfagia_diagnosi_lab2">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR, enzimi cardiaci</string>
+    <string name="disfagia_diagnosi_lab3">EGA</string>
+    <string name="disfagia_diagnosi_strumentale"><b>Rx Esofagogramma con pasto baritato</b></string>
+    <string name="disfagia_diagnosi_strumentale1"><b>RX torace</b></string>
+    <string name="disfagia_diagnosi_strumentale2"><b>Endoscopia</b></string>
+    <string name="disfagia_diagnosi_strumentale3"><b>TC encefalo</b></string>
+    <string name="disfagia_diagnosi_strumentale4"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="disfagia_diagnosi_diff1">Angina pectoris, IMA, Diverticoli esofagei, Compressione ab estrinseco</string>
+    <string name="disfagia_diagnosi_diff2">Accidenti cerebrovascolari (Ictus del circolo posteriore)</string>
+    <string name="disfagia_diagnosi_diff3">Miopatie/Malattie neuromuscolari (es. Parkinson, Miastenia Gravis)</string>
+    <string name="disfagia_diagnosi_diff4">Carcinoma della lingua, mucosite attinica post-radioterapia</string>
+
+    <string name="disfagia_trattamento1">Individuazione delle cause scatenanti e delle patologie sottostanti</string>
+    <string name="disfagia_trattamento2">Ispezione del cavo orale con laringoscopio</string>
+    <string name="disfagia_trattamento3">Visita ORL/neurologica</string>
+    <string name="disfagia_trattamento4">Visita chirurgica</string>
+
+    */Dolore addominale acuto*/
+
+    <string name="dolore_acuto_clinica1">valutare caratteristiche del dolore, sede, irradiazione, relazione con assunzione di cibo, alvo irregolare, associazione con vomito, presenza di febbre</string>
+    <string name="dolore_acuto_clinica2"><b>Dolore viscerale</b>: riferito come vago ed in sede mediana (esempio: da occlusione intestinale, peritonite, idronefrosi, embolia polmonare, polmonite o IMA)</string>
+    <string name="dolore_acuto_clinica3"><b>Dolore parietale</b>: descritto come urente ed esacerbato da tosse, movimenti del tronco, palpazione dell\'addome</string>
+    <string name="dolore_acuto_clinica4"><b>Dolore riferito</b>: percepito a distanza dall\'organo coinvolto (esempio: dolore lombare, da colica biliare, colica ureterale o coronarico descritto come epigastrico)</string>
+    <string name="dolore_acuto_clinica5">Nell\'anziano sintomatologia sfumata</string>
+
+    <string name="dolore_acuto_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, LDH, PT, PTT, INR, PCR, enzimi cardiaci</string>
+    <string name="dolore_acuto_diagnosi_lab2">PCT se febbre</string>
+    <string name="dolore_acuto_diagnosi_lab3">EGA</string>
+    <string name="dolore_acuto_diagnosi_lab4">Beta-hCG</string>
+    <string name="dolore_acuto_diagnosi_lab5">Esame urine</string>
+    <string name="dolore_acuto_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="dolore_acuto_diagnosi_strumentale2"><b>RX addome/torace</b></string>
+    <string name="dolore_acuto_diagnosi_strumentale3"><b>TC addome con o smdc: gold standard</b></string>
+    <string name="dolore_acuto_diagnosi_strumentale4"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="dolore_acuto_trattamento1">Individuare la patologia sottostante</string>
+    <string name="dolore_acuto_trattamento2">Valutare esecuzione esplorazione rettale</string>
+    <string name="dolore_acuto_trattamento3">Valutare fluido terapia (vedi schema)</string>
+    <string name="dolore_acuto_trattamento4">Terapia analgesica (vedi schema)</string>
+    <string name="dolore_acuto_trattamento5">Valutare visita chirurgica</string>
+    <string name="dolore_acuto_trattamento6">Considerare ricovero in OBI per definire la diagnosi o monitorare l\'evoluzione clinica</string>
+
+    */Stipsi*/
+
+    <string name="stipsi_clinica1">emissione difficile o infrequente di feci dure o sensazione di evacuazione incompleta (frequenza &lt; 2-3 volte/settimana)</string>
+    <string name="stipsi_clinica2">discomfort addominale, gonfiore, sforzo durante la defecazione, feci dure, sensazione di evacuazione incompleta</string>
+    <string name="stipsi_clinica3"><b>Sintomi di allarme</b>: perdita di peso, sanguinamento, rettorragia, familiarità per carcinoma e/o anamnesi di MICI</string>
+
+    <string name="stipsi_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, LDH, PT, PTT, INR, PCR</string>
+    <string name="stipsi_diagnosi_lab2">PCT se febbre</string>
+    <string name="stipsi_diagnosi_lab3">EGA</string>
+    <string name="stipsi_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="stipsi_diagnosi_strumentale2"><b>RX addome</b></string>
+    <string name="stipsi_diagnosi_strumentale3"><b>TC addome con o smdc</b></string>
+
+    <string name="stipsi_diagnosi_diff1">GI: occlusione intestinale, neoplasie, sindrome aderenziale, ernie, volvolo, MICI</string>
+    <string name="stipsi_diagnosi_diff2">Farmaci: oppioidi, antipsicotici, antiacidi, antistaminici, anticolinergici</string>
+    <string name="stipsi_diagnosi_diff3">Ridotta attività motoria, scarsa idratazione, ridotto introito di fibre</string>
+    <string name="stipsi_diagnosi_diff4">Altre: ragadi anali, emorroidi, ascessi rettali, proctite</string>
+
+    <string name="stipsi_trattamento1">Eseguire ER per escludere fecalomi: se presenti procedere a frammentazione e svuotamento manuale</string>
+    <string name="stipsi_trattamento2">Fluido terapia (vedi schema)</string>
+    <string name="stipsi_trattamento3">Lattulosio per os o SNG (fino a 30ml 3-4 volte/die)</string>
+    <string name="stipsi_trattamento4">Clistere evacuativo</string>
+
+    <string name="stipsi_note1">In dimissione consigliare abbondante idratazione (almeno 1.5L al giorno), dieta ricca di fibre (10g al giorno) e regolare attività fisica</string>
+
+    */Vomito*/
+
+    <string name="vomito_clinica1">valutare caratteristiche, frequenza, durata, volume, contenuto (sangue, cibo, muco, feci) e colore (rosso, verdastro biliare, giallo enterico, marrone fecaloide)</string>
+    <string name="vomito_clinica2">Nausea, dolore e/o distensione addominale, ittero delle sclere o cutaneo, segni di disidratazione, febbre, cefalea, sintomi neurologici</string>
+    <string name="vomito_clinica3">Segni di peritonismo, peristalsi ridotta/abolita o accentuata</string>
+
+    <string name="vomito_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, LDH, PCR, enzimi cardiaci</string>
+    <string name="vomito_diagnosi_lab2">PCT se febbre</string>
+    <string name="vomito_diagnosi_lab3">EGA</string>
+    <string name="vomito_diagnosi_lab4">Beta-HCG</string>
+    <string name="vomito_diagnosi_lab5">Dosaggio farmaci nel sospetto di intossicazione</string>
+    <string name="vomito_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="vomito_diagnosi_strumentale2"><b>RX addome/torace</b></string>
+    <string name="vomito_diagnosi_strumentale3"><b>TC encefalo</b></string>
+    <string name="vomito_diagnosi_strumentale4"><b>TC addome con o smdc</b></string>
+    <string name="vomito_diagnosi_strumentale5"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="vomito_diagnosi_diff1">Vomito <b>alimentare</b>: patologia dell\'esofago, gastrica o intestinale</string>
+    <string name="vomito_diagnosi_diff2">Vomito <b>biliare</b>: escludere occlusione dell\'intestino tenue</string>
+    <string name="vomito_diagnosi_diff3"><b>Se associato a vertigini</b>: escludere labirintite o ischemia cerebellare</string>
+    <string name="vomito_diagnosi_diff4"><b>Se vomito a getto</b>: escludere ipertensione endocranica</string>
+    <string name="vomito_diagnosi_diff5"><b>Se associato a cefalea, rigidità nucale</b>: escludere meningite</string>
+    <string name="vomito_diagnosi_diff6">Vomito <b>fecaloide, maleodorante</b>: escludere occlusione del grosso intestino</string>
+    <string name="vomito_diagnosi_diff7"><b>Se gravidanza</b>: escludere iperemesi gravidica</string>
+    <string name="vomito_diagnosi_diff8"><b>Se dolore toracico</b>: escludere IMA</string>
+    <string name="vomito_diagnosi_diff9"><b>Iperemesi da cannabinoidi</b></string>
+
+    <string name="vomito_trattamento1">Fluido terapia (vedi schema)</string>
+    <string name="vomito_trattamento2">Correzione squilibri idro-elettrolitici</string>
+    <string name="vomito_trattamento3">Metoclopramide 10 mg in bolo lento EV ripetibile ogni 8 h (<b>*</b>)</string>
+    <string name="vomito_trattamento4">Clorpromazina 1 fl (50mg/2ml) in 5 ml di SF IM ripetibile ogni 8 h (<b>**</b>)</string>
+    <string name="vomito_trattamento5">Desametasone 8 mg 1 fl EV in combinazione con Metoclopramide o Ondansetron (<b>***</b>) 8 mg EV nei pz oncologici in CHT</string>
+    <string name="vomito_trattamento6">SNG nel sospetto di occlusione GI</string>
+
+    <string name="vomito_note1">(<b>*</b>) Effetti collaterali extrapiramidali: distonia, discinesia, diplopia, aritmie. Controindicato in gravidanza</string>
+    <string name="vomito_note2">(<b>**</b>) Controindicato se sospetto o riconosciuto danno cerebrale, miastenia gravis, feocromocitoma, I trimestre di gravidanza, allattamento</string>
+    <string name="vomito_note3">(<b>***</b>) Previo ECG e QT nella norma</string>
+
+</resources>

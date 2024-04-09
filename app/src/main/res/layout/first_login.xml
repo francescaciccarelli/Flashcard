@@ -65,13 +65,26 @@
             android:textColor="@color/black"
             android:textSize="17dp" />
 
-        <Button
-            android:id="@+id/button_start"
+        <androidx.cardview.widget.CardView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/start"
             android:layout_gravity="center"
-            android:backgroundTint="@color/blu_reale" />
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:backgroundTint="@color/blu_reale"
+            app:cardCornerRadius="8dp" >
+
+            <Button
+                android:id="@+id/button_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/start"
+                android:backgroundTint="@android:color/transparent"
+                android:layout_gravity="center"
+                android:paddingTop="5dp"/>
+
+        </androidx.cardview.widget.CardView>
 
     </LinearLayout>
 </ScrollView>

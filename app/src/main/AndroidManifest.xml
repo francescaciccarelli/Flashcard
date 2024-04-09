@@ -14,6 +14,7 @@
         tools:targetApi="31">
         <activity
             android:name=".Homepage"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -148,7 +149,47 @@
         </activity>
 
         <activity
+            android:name=".SintomoDiarreaClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDiarreaDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDiarreaDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDiarreaTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".SintomoDisfagia"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDisfagiaClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDisfagiaDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDisfagiaDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDisfagiaTrattamento"
             android:exported="true">
         </activity>
 
@@ -158,12 +199,77 @@
         </activity>
 
         <activity
+            android:name=".SintomoDoloreAddominaleClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDoloreAddominaleDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDoloreAddominaleDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoDoloreAddominaleTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".SintomoStipsi"
             android:exported="true">
         </activity>
 
         <activity
+            android:name=".SintomoStipsiClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoStipsiDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoStipsiDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoStipsiTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoStipsiNote"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".SintomoVomito"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoVomitoClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoVomitoDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoVomitoDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".SintomoVomitoTrattamento"
             android:exported="true">
         </activity>
 

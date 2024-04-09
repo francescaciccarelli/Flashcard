@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FlashCard2</string>
 
-    <string name="title_app">Progetto collaborativo Scuole di Specializzazione Medicina di Emergenza-Urgenza d\'Italia</string>
+    <string name="title_app">Progetto nazionale collaborativo Scuole di Specializzazione Medicina di Emergenza-Urgenza</string>
 
     <string name="title_section1">EMERGENZE-URGENZE DEL TRATTO DIGESTIVO, DEL PANCREAS E DELLE VIE BILIARI</string>
 
@@ -15,14 +15,13 @@
     <string name="start">Inizia!</string>
 
     <string name="title_legenda">Legenda</string>
-    <string name="legenda1">Le flash cards da noi sviluppate sono state distinte in:</string>
+    <string name="legenda1">Le flash cards da noi sviluppate sono distinte in:</string>
     <string name="legenda2">Per ogni patologia/sintomo/complicanza abbiamo posto un focus su esami di laboratorio ed esami strumentali utili alla diagnosi in PS.</string>
     <string name="legenda3">Gli esami di laboratorio inseriti nelle flash cards sono, qualora disponibili in PS, quelli più indicati da richiedere.</string>
-    <string name="legenda4">Gli esami strumentali sono elencati secondo il criterio I° e II° livello. Per alcune patologie è indicato l\'esame diagnostico <b>gold standard</b>.</string>
-    <string name="legenda5">In alcune flash cards abbiamo ritenuto utile inserire il trattamento all\'interno delle stesse così da averne una rapida consultazione.</string>
-    <string name="legenda6">Le flash cards sul dolore addominale acuto contiene, diversamente dalle altre, un\'immagine rappresentativa di tutte le patologie da tenere in considerazione nella diagnosi differenziale.</string>
-    <string name="alert_1">Abbiamo utilizzato questo simbolo come alert/pericolo</string>
-    <string name="alert_2">Abbiamo utilizzato questo simbolo come focus su casi particolari</string>
+    <string name="legenda4">Gli esami strumentali sono elencati secondo il criterio I° e II° livello. Per alcune patologie è indicato l\'esame diagnostico <b>gold standard</b> (evidenziato in <b>grassetto</b>).</string>
+    <string name="alert_1">alert/pericolo</string>
+    <string name="alert_2">focus su casi particolari</string>
+    <string name="aggiuntivi_legenda">Contenuti aggiuntivi: approccio al paziente in ps, somministrazione ev di fluidi, terapia analgesica, terapia antibiotica</string>
 
     <string name="patologie">Patologie</string>
     <string name="sintomi">Sintomi</string>
@@ -55,7 +54,7 @@
 
     <string name="sintomo_diarrea">Diarrea</string>
     <string name="sintomo_disfagia">Disfagia</string>
-    <string name="sintomo_dolore_addominale">Dolore adddominale acuto</string>
+    <string name="sintomo_dolore_addominale">Dolore addominale acuto</string>
     <string name="sintomo_stipsi">Stipsi</string>
     <string name="sintomo_vomito">Vomito</string>
 
@@ -111,5 +110,61 @@
     <string name="paziente_valutazione2B3">EO addome: Ispezione, Palpazione, Percussione, Auscultazione</string>
     <string name="paziente_valutazione2B4">EO neurologico</string>
     <string name="paziente_valutazione2_generale">Integrare la valutazione secondaria con: ecografia bedside, ECG, esami ematici, RX, imaging di II livello</string>
+
+    */Somministrazione EV*/
+
+    */Rianimazione*/
+    <string name="somministrazione_rianimazione1"><b>Rianimazione con fluidi</b></string>
+    <string name="somministrazione_rianimazione2"><b>Bolo di 500 mL di cristalloidi (SF allo 0.9% o Ringer Lattato) in 15 minuti</b></string>
+    <string name="somministrazione_rianimazione3">Rivalutare il paziente con l\'approccio ABCDE</string>
+    <string name="somministrazione_rianimazione4">Se necessario <b>ulteriore bolo di 250-500 mL di cristalloidi</b> fino a 2L</string>
+    <string name="somministrazione_rianimazione5">Shock emorragico: da 5 a 10 mL/kg di colloidi +/- emazie concentrate e rivalutare il paziente</string>
+    <string name="somministrazione_rianimazione6">Se segni di shock richiedere consulenza rianimatoria</string>
+
+    */Mantenimento*/
+    <string name="somministrazione_mantenimento1"><b>Mantenimento delle funzioni fisiologiche</b></string>
+    <string name="somministrazione_mantenimento2">Somministrare 25-30 mL/kg/die di SF, rivalutando e monitorando il paziente</string>
+
+    */Obiettivi*/
+    <string name="somministrazione_obiettivi1"><b>Obiettivi e monitoraggio della rianimazione con fluidi</b></string>
+    <string name="somministrazione_obiettivi2">Posizionamento di catetere vescicale con target di diuresi &#62; 0.5-1 mL/kg/h</string>
+
+    */Terapia analgesica*/
+    <string name="analgesica1"><b>Se dolore lieve-moderato (VAS&#60;7):</b> I° linea Paracetamolo, poi FANS</string>
+    <string name="analgesica2"><b>Se dolore severo (VAS&#62;7) o I° linea inefficace:</b> II° linea oppioidi deboli</string>
+
+    <string name="note">NOTE/ALERT/SUGGERIMENTI</string>
+
+    <string name="analgesica_note1">FANS: I° scelta nella terapia della colica renale, biliare e dismenorrea</string>
+    <string name="analgesica_note2">Per l\'uso dei FANS è raccomandata l\'associazione con gastro protettore</string>
+
+    */Terapia antibiotica*/
+    <string name="antibiotica1">Pazienti non critici, non fattori di rischio per ESBL</string>
+    <string name="antibiotica1a"><b>Amoxicillina/ac. clavulanico</b> 2.2 g ogni 6-8h</string>
+    <string name="antibiotica1b"><b>Ampicillina/sulbactam</b> 3 g ogni 6-8h</string>
+    <string name="antibiotica1c"><b>Ceftriaxone</b> 2 g ogni 24 h + <b>Metronidazolo</b> 500 mg ogni 6-8h</string>
+    <string name="antibiotica1d"><b>Ciprofloxacina</b> 400 mg ogni 12 h + <b>Metronidazolo</b> 500 mg ogni 6-8h</string>
+    <string name="antibiotica1e"><b>Levofloxacina</b> 500 mg ogni 24 h + <b>Metronidazolo</b> 500 mg ogni 6-8h</string>
+
+    <string name="antibiotica2">Pazienti non critici, con fattori di rischio per ESBL</string>
+    <string name="antibiotica2a"><b>Ertapenem</b> 1 g ogni 24h (non attivo contro P. Aeruginosa ed Enterococcus)</string>
+    <string name="antibiotica2b"><b>Tigeciclina</b> 100 mg carico, poi 50 mg ogni 12h (attivo anche contro Enterococchi ma non contro P. Aeruginosa e Proteus)</string>
+
+    <string name="antibiotica3">Pazienti critici, non fattori di rischio per ESBL</string>
+    <string name="antibiotica3a"><b>Piperacillina-tazobactam</b> 4.5 g ogni 6-8h</string>
+
+    <string name="antibiotica4">Pazienti critici, con fattori di rischio per ESBL</string>
+    <string name="antibiotica4a"><b>Imipenem</b> 500 mg ogni 6h o <b>Meropenem</b> 1 g ogni 8h (entrambi attivi anche su P. Aeruginosa e contro Gnam-positivi non multi-resistenti)</string>
+
+    <string name="antibiotica5">La terapia antifungina con <b>Fluconazolo 800 mg dose da carico poi 400 mg ogni 24h</b> SOLO nei pazienti immunocompromessi</string>
+
+    <string name="antibiotica6">La terapia va proseguira per 7-10 giorni adeguandola agli esami colturali</string>
+
+    <string name="antibiotica_note1"><b>Prima dell\'inizio della tp antibiotica empirica, prelievo emocolture</b></string>
+    <string name="antibiotica_note2">Fattori di rischio per ESBL</string>
+    <string name="antibiotica_note3">1.Pregressa colonizzazione e/o infezione da ESBL (negli ultimi 12 mesi)</string>
+    <string name="antibiotica_note4">2.Prolungata ospedalizzazione, in particolare in UTI, RSA, <i>hospice</i> ed in reparti ad alta endemia</string>
+    <string name="antibiotica_note5">3.Multipli cicli di terapia antibiotica (almeno 5 giorni negli ultimi 30)</string>
+    <string name="antibiotica_note6">4.Cateteri vescicali a permanenza</string>
 
 </resources>

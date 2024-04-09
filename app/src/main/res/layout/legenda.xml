@@ -105,12 +105,34 @@
                 android:paddingLeft="70dp"
                 android:gravity="left"
                 android:src="@drawable/baseline_square_24"
-                app:tint="@color/bronzo" />
+                app:tint="@color/arancio" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/complicanze"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:paddingLeft="10dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="70dp"
+                android:gravity="left"
+                android:src="@drawable/baseline_square_24"
+                app:tint="@color/senape" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/aggiuntivi_legenda"
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"/>
@@ -134,18 +156,6 @@
             android:text="@string/legenda4"
             android:layout_margin="10dp"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/legenda5"
-            android:layout_margin="10dp"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/legenda6"
-            android:layout_margin="10dp"/>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -154,16 +164,16 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingLeft="50dp"
+                android:paddingLeft="20dp"
                 android:gravity="left"
                 android:src="@drawable/baseline_warning_1" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/alert_1"
                 android:layout_gravity="center"
-                android:paddingLeft="10dp"/>
+                android:paddingLeft="10dp"
+                android:text="@string/alert_1" />
         </LinearLayout>
 
         <LinearLayout
@@ -174,7 +184,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingLeft="50dp"
+                android:paddingLeft="20dp"
                 android:gravity="left"
                 android:src="@drawable/baseline_warning_2"
                 app:tint="@color/rosso" />
@@ -182,20 +192,32 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/alert_2"
                 android:layout_gravity="center"
                 android:paddingLeft="10dp"
-                android:paddingBottom="5dp"/>
+                android:paddingBottom="5dp"
+                android:text="@string/alert_2" />
         </LinearLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:backgroundTint="@color/blu_reale"
+            app:cardCornerRadius="8dp" >
 
         <Button
             android:id="@+id/go_to_menu_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/start"
+            android:backgroundTint="@android:color/transparent"
             android:layout_gravity="center"
-            android:backgroundTint="@color/blu_reale"
             android:paddingTop="5dp"/>
+
+        </androidx.cardview.widget.CardView>
 
     </LinearLayout>
 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_gastroenterico"
+            android:title="@string/title_section1" >
+
+            <menu>
+                <!-- Aggiungi le sottovoci per "Patologie", "Sintomi", "Complicanze" e "Contenuti aggiuntivi" -->
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_patologie"
+                        android:title="@string/patologie" />
+                    <item
+                        android:id="@+id/nav_sintomi"
+                        android:title="@string/sintomi" />
+                    <item
+                        android:id="@+id/nav_complicanze"
+                        android:title="@string/complicanze" />
+                    <item
+                        android:id="@+id/nav_contenuti_aggiuntivi"
+                        android:title="@string/aggiuntivi" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>
