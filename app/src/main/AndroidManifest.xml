@@ -59,6 +59,26 @@
         </activity>
 
         <activity
+            android:name=".PatologiaAppendiciteClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaAppendiciteDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaAppendiciteDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaAppendiciteTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaColangite"
             android:exported="true">
         </activity>
@@ -279,7 +299,47 @@
         </activity>
 
         <activity
+            android:name=".CirrosiAsciteClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiAsciteDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiAsciteGrading"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiAsciteTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".CirrosiEncefalopatia"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiEncefalopatiaClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiEncefalopatiaDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiEncefalopatiaDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiEncefalopatiaTrattamento"
             android:exported="true">
         </activity>
 
@@ -289,7 +349,47 @@
         </activity>
 
         <activity
+            android:name=".CirrosiPeritoniteClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiPeritoniteDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiPeritoniteDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiPeritoniteTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".CirrosiRotturaVarici"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiRotturaVariciClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiRotturaVariciDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiRotturaVariciDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".CirrosiRotturaVariciTrattamento"
             android:exported="true">
         </activity>
 

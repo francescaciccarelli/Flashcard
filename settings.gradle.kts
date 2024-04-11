@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FlashCard2"
+rootProject.name = "FlashCard"
 include(":app")
  

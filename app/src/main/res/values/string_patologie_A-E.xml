@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="cause">Principali cause</string>
+   <string name="diagnosi_clinica">Diagnosi clinica</string>
+   <string name="casi_particolari">Casi particolari</string>
+   <string name="cause_scatenanti">Cause scatenanti</string>
+
+   */Appendicite acuta*/
+   <string name="appendicite_clinica1">Dolore vago, epigastrico o periombelicale o al fianco destro ed in FID o FIS</string>
+   <string name="appendicite_clinica2">Segni di peritonismo (segno di McBurney e/o segno di Rosving e/o manovra dello psoas positivi)</string>
+   <string name="appendicite_clinica3">Peristalsi ridotta, nausea, vomito, febbricola</string>
+   <string name="appendicite_clinica4">Negli <b>anziani/diabetici</b> paucisintomatica</string>
+   <string name="appendicite_clinica5">In <b>gravidanza</b>: rischio di perforazione se diagnosi ritardata</string>
+
+   <string name="appendicite_diagnosi">Segno/sintomo locale + segno sistemico + accertamento diagnostico</string>
+   <string name="appendicite_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+   <string name="appendicite_diagnosi_lab2">PCT se febbre</string>
+   <string name="appendicite_diagnosi_lab3">Beta hCG</string>
+   <string name="appendicite_diagnosi_strumentale1"><b>Ecografia bedside</b>: ispessimento delle pareti appendicolari, versamento/raccolte addominali</string>
+   <string name="appendicite_diagnosi_strumentale2"><b>TC addome con e smdc</b> se rischio complicanze (ascesso, perforazione): <b>gold standard</b></string>
+
+   <string name="appendicite_diagnosi_diff1">IVU, colecistite acuta, salpingite, cancro del cieco, riacutizzazione di MICI, GEU, rottura di cisti ovarica, torsione ovarica, follicolo ovarico scoppiato, torsione testicolare, aneurisma AA, diverticolite acuta, sciatalgia</string>
+
+   <string name="appendicite_trattamento1">Se appendicite non complicata, non gravidanza in atto, paziente immunocompetente:</string>
+   <string name="appendicite_trattamento2"><b>Valutazione chirurgica</b> (appendicectomia laparoscopica/open entro 8h) </string>
+   <string name="appendicite_trattamento3"><b>Antibiotico terapia empirica</b> (Cefoxitina 2gr EV oppure Cefazolina 2gr EV + Metronidazolo 500mg EV)</string>
+   <string name="appendicite_trattamento4">Se appendicite complicata:</string>
+   <string name="appendicite_trattamento5"><u>Pazienti non critici, non FR per ESBL: terapia antibiotica (vedi schema)</u></string>
+   <string name="appendicite_trattamento6"><u>Pazienti critici con FR per ESBL: terapia antibiotica (vedi schema)</u></string>
+
+
+</resources>

@@ -8,14 +8,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/dark_green">
+    android:background="@color/arancio">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:paddingTop="5dp"
         android:orientation="vertical"
-        tools:context=".SintomoDoloreAddominaleDiagnosiDifferenziale">
+        tools:context=".CirrosiAsciteClinica">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -24,7 +24,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/back_button_dolore_addominale_diagnosi_diff"
+                android:id="@+id/back_button_ascite_clinica"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:background="@drawable/baseline_arrow_back_24"
@@ -41,7 +41,9 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/sintomo_dolore_addominale"
+                android:text="@string/cirrosi_ascite"
+                android:paddingRight="25dp"
+                android:paddingLeft="25dp"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_margin="10dp"
@@ -53,26 +55,63 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/diagnosi_differenziale"
+                android:text="@string/clinica"
                 android:paddingRight="25dp"
                 android:paddingLeft="25dp"
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:layout_gravity="center"
+                android:layout_margin="10dp"
                 android:textSize="30dp"
                 android:textColor="@color/white"
                 android:fontFamily="@font/font_avenir_heavy"/>
 
         </LinearLayout>
 
-        <ImageView
-            android:id="@+id/image_diagnosi_diff_dolore_addominale"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:src="@drawable/dolore_addominale_diagnosi_differenziale"
-            android:adjustViewBounds="true"
-            android:scaleType="matrix"
-            android:layout_gravity="center"/>
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
 
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/baseline_circle_24" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:text="@string/ascite_clinica1"
+                android:textColor="@color/white"
+                android:fontFamily="@font/font_sofiapro"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/baseline_circle_24" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:text="@string/ascite_clinica2"
+                android:textColor="@color/white"
+                android:fontFamily="@font/font_sofiapro"/>
+
+        </LinearLayout>
     </LinearLayout>
 </ScrollView>
