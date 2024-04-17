@@ -32,7 +32,7 @@
     
     <string name="patologia_appendicite">Appendicite Acuta</string>
     <string name="patologia_colangite">Colangite Acuta</string>
-    <string name="patologia_colecistite_acuta">Colecistite Acuta</string>
+    <string name="patologia_colecistite">Colecistite Acuta</string>
     <string name="patologia_colelitiasi">Colelitiasi</string>
     <string name="patologia_diverticolite">Diverticolite</string>
     <string name="patologia_disturbi_anorettali">Disturbi ano-rettali</string>

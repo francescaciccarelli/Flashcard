@@ -7,6 +7,7 @@
    <string name="cause_scatenanti">Cause scatenanti</string>
 
    */Appendicite acuta*/
+
    <string name="appendicite_clinica1">Dolore vago, epigastrico o periombelicale o al fianco destro ed in FID o FIS</string>
    <string name="appendicite_clinica2">Segni di peritonismo (segno di McBurney e/o segno di Rosving e/o manovra dello psoas positivi)</string>
    <string name="appendicite_clinica3">Peristalsi ridotta, nausea, vomito, febbricola</string>
@@ -28,6 +29,76 @@
    <string name="appendicite_trattamento4">Se appendicite complicata:</string>
    <string name="appendicite_trattamento5"><u>Pazienti non critici, non FR per ESBL: terapia antibiotica (vedi schema)</u></string>
    <string name="appendicite_trattamento6"><u>Pazienti critici con FR per ESBL: terapia antibiotica (vedi schema)</u></string>
+
+   */Colangite Acuta*/
+
+   <string name="colangite_clinica1">Dolore colico e/o febbre con andamento a poussè, feci acoliche</string>
+   <string name="colangite_clinica2"><b>Triade di Charcot</b>: ittero, febbre, dolore addominale</string>
+   <string name="colangite_clinica3"><b>Pentade di Reynolds</b>: ittero, febbre, dolore addominale, shock, stato mentale alterato</string>
+
+   <string name="colangite_diagnosi">Segno/sintomo locale + laboratorio + accertamento diagnostico</string>
+   <string name="colangite_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+   <string name="colangite_diagnosi_lab2">PCT se febbre</string>
+   <string name="colangite_diagnosi_strumentale1"><b>Ecografia bedside</b> (dilatazione e/o ispessimento vie biliari, litiasi)</string>
+   <string name="colangite_diagnosi_strumentale2"><b>TC addome con e senza mdc</b></string>
+
+   <string name="colangite_diagnosi_diff1">Colecistite acuta, colelitiasi, ulcera peptica, pancreatite acuta, epatite, colica renale, pielonefrite acuta, appendicite acuta</string>
+
+   <string name="colangite_trattamento1">Fluido terapia (vedi schema)</string>
+   <string name="colangite_trattamento2">Terapia analgesica (vedi schema)</string>
+   <string name="colangite_trattamento3">Terapia antibiotica: <b>Ceftriaxone</b> 2g EV ogni 24h</string>
+   <string name="colangite_trattamento4"><b>Se GRADO SEVERO con segni di insufficienza multiorgano:</b></string>
+   <string name="colangite_trattamento5"><b>Piperacillina-tazobactam</b> 4.5g EV ogni 6-8h o </string>
+   <string name="colangite_trattamento6"><b>Meropenem</b> 1g EV ogni 8h o </string>
+   <string name="colangite_trattamento7"><b>Cefepime</b> 2g EV ogni 12-24h o </string>
+   <string name="colangite_trattamento8"><b>Ciprofloxacina</b> 400mg EV ogni 12h o </string>
+   <string name="colangite_trattamento9"><b>Levofloxacina</b> 500mg EV ogni 24h</string>
+   <string name="colangite_trattamento10">Valutazione chirurgica</string>
+
+   */ Colecistite acuta */
+
+   <string name="colecistite_clinica1">Segno di Murphy positivo</string>
+   <string name="colecistite_clinica2">Dolore o tensione in ipocondrio destro</string>
+   <string name="colecistite_clinica3">Massa palpabile in ipocondrio destro</string>
+   <string name="colecistite_clinica4">Febbre, nausea, vomito</string>
+   <string name="colecistite_clinica5">Negli anziani PAUCISINTOMATICA inappetenza e deterioramento cognitivo</string>
+
+   <string name="colecistite_diagnosi">Segno/sintomo locale + segno sitemico + accertamento diagnostico</string>
+   <string name="colecistite_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+   <string name="colecistite_diagnosi_lab2">PCT se febbre</string>
+   <string name="colecistite_diagnosi_strumentale1"><b>Ecografia bedside: I° scelta</b> (evidenza di litiasi, ispessimento parete &gt;4mm, versamento peri-colecistico, segno di Murphy ecografico)</string>
+   <string name="colecistite_diagnosi_strumentale2"><b>TC addome smdc</b></string>
+
+   <string name="colecistite_diagnosi_diff1">Gastrite, ulcera peptica, colica renale, pancreatite acuta, pielonefrite acuta, epatite, MRGE, appendicite acuta</string>
+
+   <string name="colecistite_trattamento1">Fluido terapia (vedi schema)</string>
+   <string name="colecistite_trattamento2">Terapia analgesica (vedi schema)</string>
+   <string name="colecistite_trattamento3">Eventuale posizionamento di SNG</string>
+   <string name="colecistite_trattamento4">Terapia antibiotica:</string>
+   <string name="colecistite_trattamento5"><b>Ceftriaxone</b> 2g EV ogni 24h o</string>
+   <string name="colecistite_trattamento6"><b>Ciprofloxacina</b> 400mg EV ogni 12 h o </string>
+   <string name="colecistite_trattamento7"><b>Levofloxacina</b> 500mg EV ogni 24h</string>
+   <string name="colecistite_trattamento8">eventualmente associati a <b>Metronidazolo</b> 500mg EV ogni 8h</string>
+   <string name="colecistite_trattamento9"><b>Visita chirurgica</b> per eventuale:</string>
+   <string name="colecistite_trattamento10">Colecistectomia laparoscopica precoce (entro 72h dall’inizio dei sintomi) o Colecistotomia percutanea (per pz non candidabili a chirurgia)</string>
+
+   */ Colelitiasi */
+
+
+
+   */ Diverticolite */
+
+
+
+   */ Disturbi Ano-Rettali */
+
+
+
+   */ Emorragie Digestive */
+
+
+
+   */ Ernie Addominali */
 
 
 </resources>
