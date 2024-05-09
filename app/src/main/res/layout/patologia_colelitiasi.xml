@@ -142,14 +142,14 @@
             <Button
                 android:id="@+id/note_colelitiasi"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="72dp"
                 android:backgroundTint="@android:color/transparent"
+                android:fontFamily="@font/font_sofiapro"
                 android:text="@string/note1"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"
-                android:textStyle="bold"
-                android:fontFamily="@font/font_sofiapro"/>
+                android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
 

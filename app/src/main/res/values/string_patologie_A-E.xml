@@ -69,7 +69,7 @@
    <string name="colecistite_diagnosi_strumentale1"><b>Ecografia bedside: I° scelta</b> (evidenza di litiasi, ispessimento parete &gt;4mm, versamento peri-colecistico, segno di Murphy ecografico)</string>
    <string name="colecistite_diagnosi_strumentale2"><b>TC addome smdc</b></string>
 
-   <string name="colecistite_diagnosi_diff1">Gastrite, ulcera peptica, colica renale, pancreatite acuta, pielonefrite acuta, epatite, MRGE, appendicite acuta</string>
+   <string name="colecistite_diagnosi_diff1">Gastrite, ulcera peptica, colica renale, pancreatite acuta, pielonefrite acuta, epatite, MRGE, appendicite acuta</string>
 
    <string name="colecistite_trattamento1">Fluido terapia (vedi schema)</string>
    <string name="colecistite_trattamento2">Terapia analgesica (vedi schema)</string>
@@ -84,21 +84,154 @@
 
    */ Colelitiasi */
 
+   <string name="colelitiasi_clinica1">Dolore crampiforme in epigastrio e/o ipocondrio destro esacerbato dai pasti che può irradiarsi al dorso e/o alla spalla omolaterale</string>
+   <string name="colelitiasi_clinica2">Segno di Murphy positivo</string>
+   <string name="colelitiasi_clinica3">Nausea, vomito, eruttazioni, reflusso acido, feci acoliche</string>
+   <string name="colelitiasi_clinica4">Febbre e brividi se colecistite acuta sovrapposta o colangite acuta</string>
 
+   <string name="colelitiasi_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+   <string name="colelitiasi_diagnosi_lab2">PCT se febbre</string>
+   <string name="colelitiasi_diagnosi_strumentale"><b>Ecografia bedside</b> (litiasi, ispessimento parete, segno di Murphy positivo, versamento pericolecistico)</string>
+
+   <string name="colelitiasi_diagnosi_diff1">Gastrite, pancreatite acuta, ulcera peptica, colica renale, pielonefrite acuta, MRGE, epatite acuta, appendicite acuta</string>
+
+   <string name="colelitiasi_trattamento1">Terapia analgesica (vedi schema)</string>
+   <string name="colelitiasi_trattamento2">Visita chirurgica per eventuale colecistectomia laparoscopica precoce (entro 72h)</string>
+   <string name="colelitiasi_trattamento3">Acido ursodesossicolico (10-15 mg/kg per OS ogni 8-12h)</string>
+   <string name="colelitiasi_trattamento4"><b>NELLE FORME ASINTOMATICHE</b></string>
+   <string name="colelitiasi_trattamento5">Colecistectomia profilattica solo se:</string>
+   <string name="colelitiasi_trattamento6">calcoli biliari &gt; 3cm</string>
+   <string name="colelitiasi_trattamento7">colecisti a porcellana o polipi &gt; 1cm per <u><b>aumentato rischio di carcinoma della colecisti</b></u></string>
+
+   <string name="colelitiasi_note1">Dopo intervento di chirurgia bariatrica prevenire la formazione di calcoli con <b>acido ursodesossicolico</b> (10-15mg/kg per OS ogni 8-12h)</string>
 
    */ Diverticolite */
 
+   <string name="diverticolite_clinica1"><b>DIVERTICOLITE ACUTA NON COMPLICATA (isolata o ricorrente):</b></string>
+   <string name="diverticolite_clinica2">Dolore addominale severo e prolungato (FIS o sovrapubico)</string>
+   <string name="diverticolite_clinica3">Febbre, alvo alterno,  nausea e/o vomito</string>
+   <string name="diverticolite_clinica4">Ematochezia, pollachiuria, disuria</string>
+   <string name="diverticolite_clinica5"><b>DIVERTICOLITE ACUTA COMPLICATA:</b></string>
+   <string name="diverticolite_clinica6">ASCESSO: massa palpabile all\'EO/esplorazione rettale</string>
+   <string name="diverticolite_clinica7">PERFORAZIONE/PERITONITE: rigidità addominale</string>
+   <string name="diverticolite_clinica8">FISTOLA COLO-VESCICALE o COLO-VAGINALE: fecaluria, piuria, pneumaturia, emissione di feci dalla vagina</string>
+   <string name="diverticolite_clinica9">STENOSI/OCCLUSIONE INTESTINALE: alvo chiuso a feci/gas, vomito, distensione addominale</string>
+   <string name="diverticolite_clinica10">SEPSI: alterazione stato mentale, instabilità emodinamica, shock</string>
+   <string name="diverticolite_clinica11">Negli anziani PAUCISINTOMATICA</string>
 
+   <string name="diverticolite_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+   <string name="diverticolite_diagnosi_lab2">Esame delle urine</string>
+   <string name="diverticolite_diagnosi_lab3">EGA</string>
+   <string name="diverticolite_diagnosi_lab4">PCT se febbre</string>
+   <string name="diverticolite_diagnosi_lab5">Beta hCG</string>
+   <string name="diverticolite_diagnosi_strumentale1"><b>Ecografia bedside</b> (versamento addominale, ispessimento parietale del sigma, estroflessioni diverticolari, iperecogenicità tessuti pericolici)</string>
+   <string name="diverticolite_diagnosi_strumentale2"><b>Rx diretta addome</b></string>
+   <string name="diverticolite_diagnosi_strumentale3"><b>TC addome con mdc (gold standard)</b></string>
+
+   <string name="diverticolite_diagnosi_diff1">Appendicite acuta, riacutizzazione di MICI, pancreatite, IVU, occlusione intestinale, GEU, cisti ovarica, torsione ovarica, colite ischemica, neoplasia colo-rettale</string>
+
+   <string name="diverticolite_trattamento1">Visita chirurgica: il trattamento chirurgico è indicato nelle forme complicate o nel fallimento della terapia medica</string>
+   <string name="diverticolite_trattamento2"><b>PAZIENTI NON CRITICI, no comorbidità o altri rischi di complicanze:</b></string>
+   <string name="diverticolite_trattamento3"><b>"Vigile attesa"</b>, digiuno</string>
+   <string name="diverticolite_trattamento4">Fluido terapia (vedi schema)</string>
+   <string name="diverticolite_trattamento5">Terapia analgesica (vedi schema)</string>
+   <string name="diverticolite_trattamento6">Terapia antibiotica ( vedi schema)</string>
+   <string name="diverticolite_trattamento7">Rivalutazione clinico-laboratoristica durante osservazione clinica</string>
+   <string name="diverticolite_trattamento8"><b>PAZIENTI CRITICI (comorbidità)</b></string>
+   <string name="diverticolite_trattamento9">Non FR per ESBL: <b>Piperacillina- Tazobactam</b> 4.5g EV ogni 6-8h</string>
+   <string name="diverticolite_trattamento10">FR per ESBL: <b>Imipenem</b> 500mg EV ogni 6h o <b>Meropenem</b> 1g EV ogni 8h</string>
+   <string name="diverticolite_trattamento11">SOLO PER PAZIENTI IMMUNOCOMPREMESSI: <b>Fluconazolo</b> 800mg EV dose di carico, poi 400mg EV ogni 24h</string>
+
+   <string name="diverticolite_note1"><b>Colonscopia</b> a 6-8 settimane dalla risoluzione della fase acuta</string>
 
    */ Disturbi Ano-Rettali */
 
+   <string name="disturbi_ano_clinica1">Irritazione, sanguinamento durante la defecazione, dolore (anche addominale), secrezioni, tumefazione, modifiche dell\'alvo, tenesmo, sensazione di evacuazione incompleta</string>
+   <string name="disturbi_ano_clinica2">Lesioni da grattamento, trauma, infezioni (sifilide, candida, scabbia, tubercolosi)</string>
+   <string name="disturbi_ano_clinica3">Ossiuri nel bambino (prurito anale)</string>
 
+   <string name="disturbi_ano_diagnosi_lab1">Emocromo, PCR</string>
+   <string name="disturbi_ano_diagnosi_lab2">PCT se febbre</string>
+   <string name="disturbi_ano_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+   <string name="disturbi_ano_diagnosi_strumentale2"><b>TC addome con mdc</b> (se ascesso profondo)</string>
+
+   <string name="disturbi_ano_cause1">Cancro anale/del colon-retto, ragade, ascesso anorettale, fistola anorettale, emorroidi (dolorose se trombizzate), corpo estraneo, prolasso rettale, malattia pilonidale</string>
+
+   <string name="disturbi_ano_trattamento1">Ispezione ed esplorazione rettale</string>
+   <string name="disturbi_ano_trattamento2">Terapia analgesica (vedi schema)</string>
+   <string name="disturbi_ano_trattamento3">Visita chirurgica</string>
+   <string name="disturbi_ano_trattamento4">Se ascesso incisione, drenaggio e terapia antibiotica (vedi schema)</string>
+
+   <string name="disturbi_ano_note1">Se ragade anale o ascesso profondo pensare a MICI</string>
 
    */ Emorragie Digestive */
 
+   <string name="emorragie_clinica1"><b>EDS</b>: ematemesi, vomito caffeano, melena</string>
+   <string name="emorragie_clinica2"><b>EDI</b>: ematochezia, melena</string>
+   <string name="emorragie_clinica3">Astenia, pallore, ipotensione, segni di shock</string>
+   <string name="emorragie_clinica4">Ispezione della cavità oro-nasale, esplorazione rettale</string>
 
+   <string name="emorragie_diagnosi_lab1">Emocromo, creatinina, azotemia, elettroliti, GOT, GPT, bilirubina, glicemia, PT, PTT, INR, fibrinogeno</string>
+   <string name="emorragie_diagnosi_lab2">Gruppo sanguigno</string>
+   <string name="emorragie_diagnosi_lab3">EGA (lattati</string>
+   <string name="emorragie_diagnosi_lab4">)</string>
+   <string name="emorragie_diagnosi_strumentale1"><b>RX</b> o <b>TC addome</b></string>
+   <string name="emorragie_diagnosi_strumentale2">Valutare EGDS, colonscopia, Angiografia, Angio-TC</string>
+   <string name="emorragie_diagnosi_strumentale3">ECG a 12 derivazioni</string>
+
+   <string name="emorragie_diagnosi_diff1">Epistassi/Frattura delle ossa nasali</string>
+   <string name="emorragie_diagnosi_diff2">Traumatismo del massiccio facciale</string>
+   <string name="emorragie_diagnosi_diff3">Emorragie del cavo orale o faringee</string>
+   <string name="emorragie_diagnosi_diff4">Disturbi congeniti o acquisiti della coagulazione</string>
+   <string name="emorragie_diagnosi_diff5">Sanguinamenti uro-ginecologici</string>
+
+   <string name="emorragie_trattamento1">Visita endoscopia digestiva</string>
+   <string name="emorragie_trattamento2">Emorragie digestive superiori</string>
+   <string name="emorragie_trattamento4"><u><b>TIMING EGDS</b></u></string>
+   <string name="emorragie_trattamento5">entro <b>24h</b> nel paziente emodinamicamente <b>stabile</b></string>
+   <string name="emorragie_trattamento6">entro <b>6-12h</b> nel paziente emodinamicamente <b>instabile</b></string>
+   <string name="emorragie_trattamento7"><b>TERAPIA MEDICA</b></string>
+   <string name="emorragie_trattamento8">Fluido terapia secondo target PA (PAM 65 mmHg)</string>
+   <string name="emorragie_trattamento9">Pantoprazolo/omeprazolo 80 mg ev in bolo poi in i.c. 8 mg/h per 72 h</string>
+   <string name="emorragie_trattamento10"><b>Norfloxacina</b> 400 mg ogni 12h OS/SNG o <b>Ciprofloxacina</b> 400 mg ev ogni 12h</string>
+   <string name="emorragie_trattamento11">Acido tranexamico 1 g ev in 10 min poi 1 g ogni 6-8 h</string>
+   <string name="emorragie_trattamento12">Nel caso di sanguinamento da varici:</string>
+   <string name="emorragie_trattamento13">Terlipressina 2 mg ev ogni 6h fino all\'emostasi, poi 1 mg ogni 6h per 5 giorni</string>
+   <string name="emorragie_trattamento14">Noradrenalina da 0,1-1 γ/kg/min in base all\'emodinamica</string>
+   <string name="emorragie_trattamento15">Sonda di Sengstaken-Blakemore se sanguinamento massivo</string>
+   <string name="emorragie_trattamento16">Valutare consulenza rianimatoria per gestione avanzata vie aeree</string>
+   <string name="emorragie_trattamento3">Emorragie digestive inferiori</string>
+   <string name="emorragie_trattamento17">Fluido terapia secondo target PA (PAM 65 mmHg)</string>
+   <string name="emorragie_trattamento18">Gestire la causa sottostante</string>
+   <string name="emorragie_trattamento19">Colonscopia a 24h</string>
+   <string name="emorragie_trattamento20">Emotrasfusione se:</string>
+   <string name="emorragie_trattamento21">Hb &lt; 7.0 g/dL</string>
+   <string name="emorragie_trattamento22">Emodinamica instabile</string>
+   <string name="emorragie_trattamento23">Sanguinamento attivo</string>
+   <string name="emorragie_trattamento24">Trasfusione di piastrine se PLT &lt; 50.000/mmc nel sanguinamento attivo</string>
 
    */ Ernie Addominali */
+   
+   <string name="ernie_clinica1">Senso di peso, rigonfiamento visibile o asintomatico</string>
+   <string name="ernie_clinica2">Disturbi funzionali in base al viscere erniato (es. dispepsia, stipsi, vomito)</string>
+   <string name="ernie_clinica3">Manovra di Valsalva se l’ernia non è direttamente palpabile</string>
+   <string name="ernie_clinica4">Ernia incarcerata: non può essere ridotta e può causare ostruzione intestinale</string>
+   <string name="ernie_clinica5">Ernia strozzata: dolore fisso, ingravescente con nausea e vomito</string>
+   <string name="ernie_clinica6">Lo strozzamento determina grave ostacolo circolatorio con il rischio di ischemia, infarto intestinale, perforazione, peritonite</string>
 
+   <string name="ernie_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, PT, PTT, INR, PCR</string>
+   <string name="ernie_diagnosi_lab2">PCT se febbre</string>
+   <string name="ernie_diagnosi_lab3">EGA</string>
+   <string name="ernie_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+   <string name="ernie_diagnosi_strumentale2"><b>TC addome con o smdc</b></string>
+
+   <string name="ernie_diagnosi_diff1">Adenopatia (infettiva o maligna), testicolo ectopico, lipoma</string>
+   <string name="ernie_diagnosi_diff2">Varicocele, idrocele, tumore testicolare</string>
+
+   <string name="ernie_trattamento1">Terapia sintomatica (dolore, febbre, vomito)</string>
+   <string name="ernie_trattamento2">Visita chirurgica</string>
+   <string name="ernie_trattamento3">Se ernia riducibile: riduzione manuale</string>
+   <string name="ernie_trattamento4">Se non riducibile (senza strozzamento): chirurgia in elezione</string>
+   <string name="ernie_trattamento5"><b>Se incarceramento o strozzamento: chirurgia d\'urgenza</b></string>
 
 </resources>

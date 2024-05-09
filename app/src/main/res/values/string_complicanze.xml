@@ -18,14 +18,14 @@
     <string name="ascite_grading3">GRADO II (severa): distensione addominale marcata</string>
 
     <string name="ascite_trattamento1">Ricercare e trattare fattore precipitante</string>
-    <string name="ascite_trattamento2"><u><b>GRADO I</b></u> restrizione di sodio e terapia diuretica: anti-aldosteronico es. spironolattone 100mg/die (fino a max 400mg/die)</string>
-    <string name="ascite_trattamento3"><u>Dopo 72h rivalutare se raggiunto target(*)</u>: se non raggiunto valutare +/- furosemide 40mg/die (fino a max 160 mg/die) + paracentesi diagnostica</string>
-    <string name="ascite_trattamento4"><u><b>GRADO II-III</b></u> paracentesi evacuativa + plasma volume expansion (albumina 5-10g ev per ogni litro di liquido ascitico prelevato)</string>
+    <string name="ascite_trattamento2"><u><b>GRADO I</b></u> restrizione di sodio e terapia diuretica: anti&#8208;aldosteronico es. spironolattone 100mg/die (fino a max 400mg/die)</string>
+    <string name="ascite_trattamento3"><u>Dopo 72h rivalutare se raggiunto target(*)</u>: se non raggiunto valutare +/&#8208; furosemide 40mg/die (fino a max 160 mg/die) + paracentesi diagnostica</string>
+    <string name="ascite_trattamento4"><u><b>GRADO II&#8208;III</b></u> paracentesi evacuativa + plasma volume expansion (albumina 5&#8208;10g ev per ogni litro di liquido ascitico prelevato)</string>
 
     <string name="ascite_note1"><b>*</b> perdita peso max 0.5kg/die nei pz senza edemi, 1kg/die nei pz con edema</string>
 
     */Encefalopatia epatica*/
-    <string name="encefalopatia_clinica1">Confusione mentale, disorientamento spazio-temporale</string>
+    <string name="encefalopatia_clinica1">Confusione mentale, disorientamento spazio&#8208;temporale</string>
     <string name="encefalopatia_clinica2">Agitazione psicomotoria</string>
     <string name="encefalopatia_clinica3">Sonnolenza, stato comatoso</string>
     <string name="encefalopatia_clinica4">Valutare Animal Naming test, GCS</string>
@@ -40,19 +40,19 @@
 
     <string name="encefalopatia_trattamento1">Ricercare e trattare fattore precipitante</string>
     <string name="encefalopatia_trattamento2">Valutare stato mentale periodicamente (ANT, Orientamento, GCS)</string>
-    <string name="encefalopatia_trattamento3">Lattulosio per os o SNG (fino a 30ml 3-4 volte/die) o clisteri 300ml + 700ml di acqua (adattare la dose: 2-3 evacuazioni/die)</string>
+    <string name="encefalopatia_trattamento3">Lattulosio per os o SNG (fino a 30ml 3&#8208;4 volte/die) o clisteri 300ml + 700ml di acqua (adattare la dose: 2&#8208;3 evacuazioni/die)</string>
     <string name="encefalopatia_trattamento4">Rifaximina 550 mg OS ogni 12 h o 400 mg OS ogni 8 h (in prevenzione secondaria)</string>
-    <string name="encefalopatia_trattamento5">Se agitazione: Flumazenil 1-3 mg EV (off-label)</string>
-    <string name="encefalopatia_trattamento6">Aminoacidi a catena ramificata  (1-2 flaconi da 500 ml e.v.)</string>
+    <string name="encefalopatia_trattamento5">Se agitazione: Flumazenil 1&#8208;3 mg EV (off&#8208;label)</string>
+    <string name="encefalopatia_trattamento6">Aminoacidi a catena ramificata  (1&#8208;2 flaconi da 500 ml e.v.)</string>
 
     */Peritonite*/
     <string name="peritonite_clinica1">Asintomatica (15%)</string>
-    <string name="peritonite_clinica2">Dolore addominale, vomito, diarrea, iper- o ipotermia, brividi,  tachicardia e/o tachipnea, peggioramento funzionalità renale, emorragia gastrointestinale, ascite</string>
+    <string name="peritonite_clinica2">Dolore addominale, vomito, diarrea, iper&#8208; o ipotermia, brividi,  tachicardia e/o tachipnea, peggioramento funzionalità renale, emorragia gastrointestinale, ascite</string>
 
     <string name="peritonite_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, LDH, GGT, ALP, PT, PTT, INR, PCR, albumina</string>
     <string name="peritonite_diagnosi_lab2">EGA: lattati</string>
     <string name="peritonite_diagnosi_lab3">PCT se febbre</string>
-    <string name="peritonite_diagnosi_lab4">Esame chimico-fisico liquido ascitico (PMN&gt;250 neutrofili/mm<sup>3</sup>)</string>
+    <string name="peritonite_diagnosi_lab4">Esame chimico&#8208;fisico liquido ascitico (PMN&gt;250 neutrofili/mm<sup>3</sup>)</string>
     <string name="peritonite_diagnosi_lab5">Esame colturale liquido ascitico</string>
     <string name="peritonite_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
     <string name="peritonite_diagnosi_strumentale2"><b>Paracentesi diagnostica (gold standard)</b></string>
@@ -61,9 +61,9 @@
     <string name="peritonite_diagnosi_differenziale1">Peritonite secondaria: focolai flogistici intraperitoneali (es. diverticolite, pancreatite, TBC peritoneale), carcinomatosi peritoneale, ascite biliare, occlusione intestinale</string>
 
     <string name="peritonite_trattamento1">Terapia antibiotica empirica (da effettuare dopo paracentesi)</string>
-    <string name="peritonite_trattamento2">Ceftriaxone 2g ev ogni 24h o cefotaxime 1g im/ev ogni 12h (può essere aumentato a 1 g ogni 6-8h)</string>
-    <string name="peritonite_trattamento3">Piperacillina-tazobactam 4.5g ev ogni 8h + Daptomicina 4 mg/kg  ogni 24h (se S. Aureus 6 mg/kg ogni 24h)</string>
-    <string name="peritonite_trattamento4">Meropenem 1 gr ev ogni 8h (se noti Gram-negative MDR)</string>
+    <string name="peritonite_trattamento2">Ceftriaxone 2g ev ogni 24h o cefotaxime 1g im/ev ogni 12h (può essere aumentato a 1 g ogni 6&#8208;8h)</string>
+    <string name="peritonite_trattamento3">Piperacillina&#8208;tazobactam 4.5g ev ogni 8h + Daptomicina 4 mg/kg  ogni 24h (se S. Aureus 6 mg/kg ogni 24h)</string>
+    <string name="peritonite_trattamento4">Meropenem 1 gr ev ogni 8h (se noti Gram&#8208;negative MDR)</string>
 
     <string name="peritonite_note1"><b>RACCOMANDATA</b> paracentesi diagnostica dopo 48h. Se riduzione PMN&lt;25% ampliare lo spettro antibiotico, indagare peritonite secondaria: TC addome smdc</string>
 
@@ -82,13 +82,13 @@
     <string name="rottura_trattamento2">Fluido terapia (vedi schema)</string>
     <string name="rottura_trattamento3">Trasfusione se Hb&lt;7g/dl</string>
     <string name="rottura_trattamento4">Visita endoscopica digestiva/chirurgica</string>
-    <string name="rottura_trattamento5"><b>EGDS entro le prime 6-12h</b>: legatura endoscopica delle varici</string>
-    <string name="rottura_trattamento6">Terlipressina 2mg EV ogni 4-6h fino all\' seguito da 1 mg 4-6h per 5gg</string>
+    <string name="rottura_trattamento5"><b>EGDS entro le prime 6&#8208;12h</b>: legatura endoscopica delle varici</string>
+    <string name="rottura_trattamento6">Terlipressina 2mg EV ogni 4&#8208;6h fino all\' seguito da 1 mg 4&#8208;6h per 5gg</string>
     <string name="rottura_trattamento7">Noradrenalina</string>
     <string name="rottura_trattamento8">Terapia antibiotica empirica (vedi schema)</string>
-    <string name="rottura_trattamento9"><b>Sonda di Sengstaken-Blakemore se sanguinamento massivo</b></string>
+    <string name="rottura_trattamento9"><b>Sonda di Sengstaken&#8208;Blakemore se sanguinamento massivo</b></string>
     <string name="rottura_trattamento10"><b>Valutare consulenza rianimatoria per gestione avanzata vie aeree</b></string>
     <string name="rottura_trattamento11">Alla dimissione:</string>
-    <string name="rottura_trattamento12">Propranololo 20-40mg OS ogni 12h o Nadololo 40mg OS ogni 24h</string>
+    <string name="rottura_trattamento12">Propranololo 20&#8208;40mg OS ogni 12h o Nadololo 40mg OS ogni 24h</string>
 
 </resources>

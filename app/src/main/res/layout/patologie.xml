@@ -114,7 +114,7 @@
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
                 android:backgroundTint="@android:color/transparent"
-                android:text="@string/patologia_colecistite_acuta"
+                android:text="@string/patologia_colecistite"
                 android:textAlignment="center"
                 android:textColor="@color/blu_persia"
                 android:textSize="25sp"

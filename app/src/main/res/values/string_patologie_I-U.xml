@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    */ Ingestione di caustici */
+
+    <string name="caustici_clinica1">Dolore addominale o toracico</string>
+    <string name="caustici_clinica2">Scialorrea, disfagia/odinofagia, stridore/dispnea</string>
+    <string name="caustici_clinica3">Vomito, ematemesi</string>
+
+    <string name="caustici_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+    <string name="caustici_diagnosi_lab2">EGA</string>
+    <string name="caustici_diagnosi_lab3">Leucocitosi ed acidosi metabolica marker di gravità lesionale</string>
+    <string name="caustici_diagnosi_strumentale1"><b>RX torace e addome</b></string>
+    <string name="caustici_diagnosi_strumentale2"><b>RX con mdc (gastrografin) o TC torace e addome con mdc</b></string>
+    <string name="caustici_diagnosi_strumentale3"><b>EGDS</b></string>
+    <string name="caustici_diagnosi_strumentale4"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="caustici_trattamento1">Contattare Centro Antiveleni (CAV) di riferimento</string>
+    <string name="caustici_trattamento2">Ispezione vie aeree con laringoscopio: valutare consulenza rianimatoria per IOT precoce</string>
+    <string name="caustici_trattamento3">Supporto respiratorio</string>
+    <string name="caustici_trattamento4">Fluido terapia (vedi schema)</string>
+    <string name="caustici_trattamento5">Terapia analgesica (vedi schema)</string>
+    <string name="caustici_trattamento6">IPP, alginati, antibiotici ad ampio spettro (se sospetta perforazione) (vedi schema)</string>
+    <string name="caustici_trattamento7">Consulenza ORL se lesioni orofaringee o laringee importanti</string>
+    <string name="caustici_trattamento8">Consulenza endoscopica per EGDS entro le prime 12h</string>
+    <string name="caustici_trattamento9">Consulenza chirurgica/toracica se sospetta perforazione addominale/pneumomediastino</string>
+
+    <string name="caustici_note1">Evitare posizionamento SNG, emetici, agenti neutralizzanti, steroidi</string>
+
+    */ Ingestione corpi estranei */
+
+    <string name="corpi_clinica1">Attenta anamnesi: caratteristiche del CE, precedenti patologie esofagee o GI</string>
+    <string name="corpi_clinica2">Disfagia, odinofagia, scialorrea,  ematemesi, dolore toracico o addominale, conati di vomito (tipici di localizzazione esofagea), tosse, stridore laringeo, cianosi, dispnea</string>
+
+    <string name="corpi_diagnosi1">rapida identificazione e localizzazione corpo estraneo</string>
+    <string name="corpi_diagnosi2"><b>Ecografia bedside</b> per oggetti radiotrasparenti</string>
+    <string name="corpi_diagnosi3"><b>RX torace/addome</b> per oggetti radiopachi</string>
+    <string name="corpi_diagnosi4"><b>TC torace/addome</b> in caso di sospetta perforazione</string>
+    <string name="corpi_diagnosi5"><b>Endoscopia: Gold Standard</b></string>
+
+    <string name="corpi_trattamento1">Laringoscopia</string>
+    <string name="corpi_trattamento2">Valutazione consulenza endoscopica/chirurgica/rianimatoria</string>
+    <string name="corpi_trattamento3">Se febbre, vomito, dolore addominale o complicanze: rimozione in emergenza</string>
+    <string name="corpi_trattamento4"><b>OSSERVAZIONE CLINICA DOMICILIARE (con controlli Rx seriati):</b></string>
+    <string name="corpi_trattamento5">Paziente asintomatico con ingestione di oggetti piccoli e smussi oltrepassati lo stomaco (eccetto batterie e magneti)</string>
+    <string name="corpi_trattamento6">CE distalmente al Treitz, senza complicanze</string>
+    <string name="corpi_trattamento7"><b>EGDS in EMERGENZA (&lt;6H):</b> CE esofageo con ostruzione completa, oggetti taglienti/acuminati/batterie in esofago</string>
+
+    <string name="corpi_casi_particolari1"><b>Pacchetti di droghe</b> (“body packing”) NO endoscopia; se sospetta rottura del pacchetto od occlusione ricorrere a chirurgia</string>
+    <string name="corpi_casi_particolari2"><b>Magneti</b>: endoscopia urgente (&lt;24H)</string>
+    <string name="corpi_casi_particolari3"><b>Batterie a disco</b> collocate in esofago: rimozione endoscopica emergente</string>
+
+    <string name="corpi_note1"><b>Complicanze maggiori:</b> erosioni, stenosi o perforazioni esofagee, o anche una fistola aorto&#8208;esofagea</string>
+
+    */ Insufficienza epatica acuta */
+
+    <string name="insufficienza_clinica1">Danno epatico acuto + alterazioni acute del sensorio</string>
+    <string name="insufficienza_clinica2">Alterazioni del sensorio, Flapping tremor</string>
+    <string name="insufficienza_clinica3">Ittero, Febbre, Astenia, Malessere, Anoressia</string>
+    <string name="insufficienza_clinica4">Diatesi emorragica o emorragie manifeste</string>
+    <string name="insufficienza_clinica5">Dolore addominale, epatomegalia</string>
+    <string name="insufficienza_clinica6">Instabilità emodinamica</string>
+
+    <string name="insufficienza_diagnosi1">Presenza concomitante di:</string>
+    <string name="insufficienza_diagnosi2">INR &gt; o = 1,5 + ipertransaminasemia o iperbilirubinemia</string>
+    <string name="insufficienza_diagnosi3">Encefalopatia epatica</string>
+    <string name="insufficienza_diagnosi4">Quadro clinico insorto da meno di 6 mesi</string>
+    <string name="insufficienza_diagnosi_lab1">Emocromo, creatinina, azotemia, glicemia, elettroliti, amilasi, lipasi, LDH, GOT, GPT, ALP, GGT, bilirubina tot e frazionata, PT, PTT, INR, PCR</string>
+    <string name="insufficienza_diagnosi_lab2">Ammoniemia, tossicologico urine e siero, sierologia virus epatotropi</string>
+    <string name="insufficienza_diagnosi_lab3">Esame urine</string>
+    <string name="insufficienza_diagnosi_lab4">EGA (lattati)</string>
+    <string name="insufficienza_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="insufficienza_diagnosi_strumentale2"><b>TC addome con mdc</b></string>
+    <string name="insufficienza_diagnosi_strumentale3"><b>TC encefalo</b> in presenza di EE</string>
+
+    <string name="insufficienza_diagnosi_diff1">Epatite acuta severa: ittero, coagulopatia in assenza di encefalopatia epatica (prognosi favorevole)</string>
+    <string name="insufficienza_diagnosi_diff2">Cirrosi epatica: ecografia addome per la DD</string>
+
+    <string name="insufficienza_cause1">Epatite virale</string>
+    <string name="insufficienza_cause2">Tossicità da farmaci (diagnosi di esclusione)</string>
+    <string name="insufficienza_cause3">Tossicità da paracetamolo: somministrare N&#8208;acetilcisteina 150 mg/kg ev in 60’ poi 50 mg/kg ogni 4h</string>
+    <string name="insufficienza_cause4">Avvelenamento da funghi</string>
+    <string name="insufficienza_cause5">Epatite autoimmune</string>
+    <string name="insufficienza_cause6">Epatite legata a gravidanza</string>
+    <string name="insufficienza_cause7">M. di Wilson fulminante (Anelli di Kayser&#8208;Fleischer)</string>
+
+    <string name="insufficienza_trattamento1">1. Identificare la causa eziologica</string>
+    <string name="insufficienza_trattamento2">2. Videat specialistico sulla base eziologica</string>
+    <string name="insufficienza_trattamento3">3. Trattamento sintomatico e di supporto:</string>
+    <string name="insufficienza_trattamento4">Se encefalopatia epatica: lattulosio 45 mL per os ripetibile ogni h fino a canalizzazione, o via clistere ogni 2h</string>
+    <string name="insufficienza_trattamento5">Se presente Ipertensione endocranica: mannitolo 0,5&#8208;1g/kg in bolo ripetibile</string>
+    <string name="insufficienza_trattamento6">Vitamina K 5&#8208;10 mg ev</string>
+    <string name="insufficienza_trattamento7">Se PLT&lt;50.000 con sanguinamento attivo: pool piastrinici</string>
+    <string name="insufficienza_trattamento8">Profilassi antibiotica con Cefalosporina di III generazione o piperacillina/tazobactam (vedi schema)</string>
+    <string name="insufficienza_trattamento9">Vasopressori se necessario: Noradrenalina da 0,1&#8208;1 γ/kg/min in base all\'emodinamica</string>
+    <string name="insufficienza_trattamento10">Se ipotensione persistente: Idrocortisone 200&#8208;300 mg/die per 1 settimana</string>
+    <string name="insufficienza_trattamento11">4. Visita chirurgica/gastroenterologica per identificazione precoce dei pazienti candidabili a <b>TRAPIANTO DI FEGATO</b></string>
+
+    */ Ischemia intestinale */
+
+    <string name="ischemia_clinica1">Dolore addominale sproporzionato rispetto al minimo reperto clinico</string>
+    <string name="ischemia_clinica2">Diarrea/rettorragia, nausea, vomito, dolore periombelicale</string>
+    <string name="ischemia_clinica3">Alterazioni della peristalsi da vivace ad abolita</string>
+    <string name="ischemia_clinica4">Segni di gravità (gangrena intestinale): febbre, tachicardia, ipotensione</string>
+
+    <string name="ischemia_diagnosi1">É tempo&#8208;dipendente</string>
+    <string name="ischemia_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR, enzimi cardiaci</string>
+    <string name="ischemia_diagnosi_lab2">PCT se febbre</string>
+    <string name="ischemia_diagnosi_lab3">D&#8208;dimero <b>(se negativo NON esclude ischemia)</b></string>
+    <string name="ischemia_diagnosi_lab4">EGA (acidosi metabolica con anion gap elevato ed aumento dei lattati)</string>
+    <string name="ischemia_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="ischemia_diagnosi_strumentale2"><b>RX diretta addome</b></string>
+    <string name="ischemia_diagnosi_strumentale3"><b>TC addome con mdn: Gold Standard</b></string>
+    <string name="ischemia_diagnosi_strumentale4"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="ischemia_diagnosi_diff1">Perforazione intestinale, aneurisma AA, colecistite acuta, appendicite acuta</string>
+
+    <string name="ischemia_trattamento1">Fluido terapia, terapia antibiotica ad ampio spettro e terapia analgesica (vedi schemi)</string>
+    <string name="ischemia_trattamento2">Eventuale posizionamento SNG per ridurre la pressione endoluminale</string>
+    <string name="ischemia_trattamento3">EBPM 5000 UI ev in bolo: da somministrare in base al timing chirurgico</string>
+    <string name="ischemia_trattamento4">Visita chirurgica/Radiologia Interventistica</string>
+
+    */ Occlusione intestinale */
+
+    <string name="occlusione_clinica1">Nausea, vomito (sintomo cardine ostruzioni alte)</string>
+    <string name="occlusione_clinica2">Dolore addominale di tipo crampiforme, in fase tardiva dolore continuo</string>
+    <string name="occlusione_clinica3">Alvo chiuso a feci e gas, diarrea paradossa</string>
+    <string name="occlusione_clinica4">Tachicardia, pallore, oliguria, disidratazione</string>
+    <string name="occlusione_clinica5">Distensione addominale, alterazioni della peristalsi da vivace ad abolita, ipertimpanismo</string>
+    <string name="occlusione_clinica6"><b>PICCOLO INTESTINO</b> (sindrome aderenziale, ernie, neoplasie, radioterapia, MICI)</string>
+    <string name="occlusione_clinica7"><b>COLON</b> (neoplasie, volvolo, diverticoli, MICI)</string>
+    <string name="occlusione_clinica8">Eseguire ER per escludere fecalomi: se presente procedere a frammentazione e svuotamento manuale</string>
+
+    <string name="occlusione_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+    <string name="occlusione_diagnosi_lab2">EGA</string>
+    <string name="occlusione_diagnosi_lab3">PCT se febbre</string>
+    <string name="occlusione_diagnosi_lab4">Beta hCG</string>
+    <string name="occlusione_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="occlusione_diagnosi_strumentale2"><b>RX diretta addome</b></string>
+    <string name="occlusione_diagnosi_strumentale3"><b>TC addome smdc: Gold Standard</b></string>
+    <string name="occlusione_diagnosi_strumentale4"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="occlusione_diagnosi_diff1">Gastroenterite acuta, ischemia mesenterica, riacutizzazione di MICI, torsione ovarica, GEU, malattia infiammatoria pelvica, pancreatite, appendicite, diverticolite, ernia addominale, pseudo addome acuto</string>
+
+    <string name="occlusione_trattamento1">Fluido terapia, terapia analgesica, terapia antibiotica (vedi schemi)</string>
+    <string name="occlusione_trattamento2">Digiuno</string>
+    <string name="occlusione_trattamento3">SNG se presente marcata distensione addominale, nausea e vomito</string>
+    <string name="occlusione_trattamento4">Visita chirurgica</string>
+
+    */ Pancreatite acuta */
+
+    <string name="pancreatite_clinica1">Dolore nei quadranti addominali superiori che si estende ai fianchi  bilateralmente, <b>«a barra»</b>, nel 50% dei casi si irradia al dorso</string>
+    <string name="pancreatite_clinica2">Febbre, Nausea, Vomito, Ittero</string>
+    <string name="pancreatite_clinica3">Addome teso <b>«a tavola»</b>, alvo chiuso a feci e gas per ileo paralitico</string>
+
+    <string name="pancreatite_diagnosi1">Clinica + Laboratorio (Lipasi&gt;3 volte )+ Strumentale</string>
+    <string name="pancreatite_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR</string>
+    <string name="pancreatite_diagnosi_lab2">PCT se febbre</string>
+    <string name="pancreatite_diagnosi_lab3">EGA</string>
+    <string name="pancreatite_diagnosi_lab4">Esame urine</string>
+    <string name="pancreatite_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="pancreatite_diagnosi_strumentale2"><b>TC addome con mdc (Gold Standard)</b></string>
+
+    <string name="pancreatite_diagnosi_diff1">IMA, Polmonite, Empiema polmonare, Colecistite, Colica biliare, Colangite</string>
+    <string name="pancreatite_diagnosi_diff2">Colica renale, Appendicite, Occlusione intestinale, Diverticolite, Ulcera peptica, Gastrite, Sindromi aortiche acute</string>
+
+    <string name="pancreatite_trattamento1">Fluido terapia (vedi schemi)</string>
+    <string name="pancreatite_trattamento2">Terapia analgesica: paracetamolo, morfina</string>
+    <string name="pancreatite_trattamento3">Visita gastroenterologica/ chirurgica</string>
+    <string name="pancreatite_trattamento4">Digiuno</string>
+    <string name="pancreatite_trattamento5">Terapia antibiotica di profilassi:</string>
+    <string name="pancreatite_trattamento6"><b>Imipenem</b> 500 mg EV ogni 6 h o <b>Meropenem</b> 1g EV ogni 8 h</string>
+
+    <string name="pancreatite_note1">Cautela nell\'uso dei FANS</string>
+
+    */ Perforazione GI */
+
+    <string name="perforazione_clinica1">Dolore addominale acuto di tipo trafittivo, nausea, vomito</string>
+    <string name="perforazione_clinica2">Peristalsi ridotta/assente</string>
+    <string name="perforazione_clinica3">Alterazioni dell\'alvo, febbre</string>
+    <string name="perforazione_clinica4">Segni di sepsi e/o shock settico</string>
+
+    <string name="perforazione_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, LDH, GGT, ALP, PT, PTT, INR, PCR, D&#8208;dimero</string>
+    <string name="perforazione_diagnosi_lab2">EGA: lattati</string>
+    <string name="perforazione_diagnosi_lab3">PCT se febbre</string>
+    <string name="perforazione_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="perforazione_diagnosi_strumentale2"><b>RX diretta addome</b></string>
+    <string name="perforazione_diagnosi_strumentale3"><b>RX torace</b></string>
+    <string name="perforazione_diagnosi_strumentale4"><b>TC addome con mdc (Gold Standard)</b></string>
+
+    <string name="perforazione_diagnosi_diff1">Colica biliare, colecistite acuta, pancreatite acuta, ulcera peptica, occlusione intestinale, volvolo, diverticolite acuta, neoplasie, appendicite acuta, ischemia/infarto intestinale, sindromi aortiche acute</string>
+
+    <string name="perforazione_trattamento1">Fluido terapia (vedi schema)</string>
+    <string name="perforazione_trattamento2">Terapia antibiotica ad ampio spettro  (vedi schema)</string>
+    <string name="perforazione_trattamento3">Visita chirurgica</string>
+
+    */ Riacutizzazione MICI */
+
+    <string name="rmici_clinica1">Diarrea cronica (&gt;4 settimane) con o senza sangue e muco</string>
+    <string name="rmici_clinica2">Febbre intermittente con marcate ipertermie, perdita di peso, anemia</string>
+    <string name="rmici_clinica3">Coliche addominali (QID), astenia, disidratazione, tenesmo rettale</string>
+    <string name="rmici_clinica4">Nei bambini: ritardo di crescita o puberale</string>
+
+    <string name="rmici_diagnosi_lab1">Emocromo, creatinina, azotemia, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GOT, GPT, GGT, ALP, PT, PTT, INR, PCR, VES, albumina</string>
+    <string name="rmici_diagnosi_lab2">EGA</string>
+    <string name="rmici_diagnosi_lab3">PCT se febbre</string>
+    <string name="rmici_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="rmici_diagnosi_strumentale2"><b>RX o TC addome con o smdc</b></string>
+    <string name="rmici_diagnosi_strumentale3"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="rmici_diagnosi_diff1">Occlusione intestinale, diverticolite, colite ischemica, appendicite acuta, perforazione intestinale, SCA, patologie uro&#8208;ginecologiche</string>
+
+    <string name="rmici_trattamento1">Fluido terapia (vedi schema)</string>
+    <string name="rmici_trattamento2">Terapia analgesica (vedi schema)</string>
+    <string name="rmici_trattamento3">Visita chirurgica/Gastroenterologica</string>
+    <string name="rmici_trattamento4">Valutare terapia antibiotica con lo specialista</string>
+    <string name="rmici_trattamento5">Evitare terapia cortisonica</string>
+
+    <string name="rmici_note1">Complicanze:</string>
+    <string name="rmici_note2">Sanguinamento</string>
+    <string name="rmici_note3">anemia ferro carenziale</string>
+    <string name="rmici_note4">trasfusione</string>
+    <string name="rmici_note5">Megacolon tossico, Ostruzione, Perforazione</string>
+    <string name="rmici_note6">La colonscopia con biopsia è lo studio diagnostico definitivo sia per RCU che per MC</string>
+
+    */ Rottura esofago */
+
+    <string name="rottura_esofago_clinica1"><b>Triade di Mackler</b>: dolore, enfisema sottocutaneo e febbre</string>
+    <string name="rottura_esofago_clinica2"><b>Segno di Hamman</b>: scricchiolio mediastinico, suono crepitante sincrono con il battito cardiaco</string>
+    <string name="rottura_esofago_clinica3">Febbre, vomito, disfagia, dispnea, diaforesi, ematemesi, instabilità emodinamica, shock</string>
+
+    <string name="rottura_esofago_diagnosi_lab1">Emocromo, creatinina, azotemia, elettroliti, GOT, GPT, bilirubina,glicemia, PT, PTT, INR, PCR, enzimi cardiaci</string>
+    <string name="rottura_esofago_diagnosi_lab2">D&#8208;dimero</string>
+    <string name="rottura_esofago_diagnosi_lab3">PCT se febbre</string>
+    <string name="rottura_esofago_diagnosi_lab4">EGA</string>
+    <string name="rottura_esofago_diagnosi_strumentale1"><b>Esofagogramma con mdc</b> (gastrografin)</string>
+    <string name="rottura_esofago_diagnosi_strumentale2"><b>NO BARIO</b>!!! (rischio mediastinite chimica)</string>
+    <string name="rottura_esofago_diagnosi_strumentale3"><b>RX torace e/o TC collo, torace e addome</b></string>
+    <string name="rottura_esofago_diagnosi_strumentale4"><b>Endoscopia</b></string>
+    <string name="rottura_esofago_diagnosi_strumentale5"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="rottura_esofago_diagnosi_diff1">SCA, EP, Polmonite, PNX spontaneo, dissecazione aortica, perforazione di ulcera gastrica, pancreatite acuta, Sindrome di Mallory Weiss</string>
+
+    <string name="rottura_esofago_trattamento1"><b>Tempestivo e invasivo</b></string>
+    <string name="rottura_esofago_trattamento2">Fluido terapia (vedi schema)</string>
+    <string name="rottura_esofago_trattamento3">Antibiotici ad ampio spettro (vedi schema)</string>
+    <string name="rottura_esofago_trattamento4">Visita chirurgica</string>
+    <string name="rottura_esofago_trattamento5">TUTTI I PAZIENTI NECESSITANO DI OSPEDALIZZAZIONE</string>
+
+    */ Sindrome di Mallory Weiss */
+
+    <string name="sindrome_clinica1">Ematemesi (da rottura del plesso venoso sottomucoso)</string>
+    <string name="sindrome_clinica2">Dolore urente epigastrico e/o retrosternale con possibile irradiazione dorsale, nausea, vomito</string>
+    <string name="sindrome_clinica3">Melena, feci picee</string>
+
+    <string name="sindrome_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR, enzimi cardiaci</string>
+    <string name="sindrome_diagnosi_lab2">EGA</string>
+    <string name="sindrome_diagnosi_strumentale1"><b>Esame endoscopico: Gold Standard</b> (da eseguire in condizioni di stabilità emodinamica)</string>
+    <string name="sindrome_diagnosi_strumentale2">Se non disponibile valutare <b>Angio&#8208;TC</b></string>
+    <string name="sindrome_diagnosi_strumentale3"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="sindrome_diagnosi_diff">Ulcera Peptica, Rottura esofagea, MRGE, altre emorragie GI, IMA</string>
+
+    <string name="sindrome_trattamento1">Nei <b>casi lievi</b> trattamento <b>conservativo</b>:</string>
+    <string name="sindrome_trattamento2">Pantoprazolo/ omeprazolo 80 mg ev in bolo poi in i.c. 8 mg/h per 72 h</string>
+    <string name="sindrome_trattamento3">Bloccanti recettori H2 ed antiacidi (es. Ranitidina 150mg per OS ogni 12 h)</string>
+    <string name="sindrome_trattamento4">Se sanguinamento:</string>
+    <string name="sindrome_trattamento5">Visita endoscopia digestiva per</string>
+    <string name="sindrome_trattamento6"><b>EGDS</b> &#8208; entro <b>24h</b> nel paziente emodinamicamente <b>stabile</b> entro <b>6&#8208;12h</b> nel paziente emodinamicamente <b>instabile</b></string>
+    <string name="sindrome_trattamento7">Se sanguinamento non controllabile:</string>
+    <string name="sindrome_trattamento8">Visita chirurgica/ radiologia interventistica</string>
+
+    <string name="sindrome_note1">In dimissione consigliare modifiche dello stile di vita ed astensione dall\'assunzione di alcool</string>
+
+    */ Ulcera peptica */
+    
+    <string name="ulcera_clinica1">Dolore epigastrico urente (alleviato dal cibo o dagli antiacidi)</string>
+    <string name="ulcera_clinica2">Distensione addominale, nausea, vomito</string>
+    <string name="ulcera_clinica3">Dolore che risveglia il paziente di notte: ulcera duodenale</string>
+    <string name="ulcera_clinica4"><b>Se sanguinante</b>: ematemesi, ematochezia, melena, pallore cutaneo (anemia), ipotensione, sincope, shock</string>
+    <string name="ulcera_clinica5"><b>Se perforata</b>: aria libera in addome (ipertimpanismo)</string>
+
+    <string name="ulcera_diagnosi_lab1">Emocromo, creatinina, azotemia, GOT, GPT, bilirubina totale e frazionata, glicemia, elettroliti, amilasi, lipasi, GGT, ALP, PT, PTT, INR, PCR, enzimi cardiaci</string>
+    <string name="ulcera_diagnosi_lab2">EGA</string>
+    <string name="ulcera_diagnosi_strumentale1"><b>Ecografia bedside</b></string>
+    <string name="ulcera_diagnosi_strumentale2"><b>RX torace e addome</b></string>
+    <string name="ulcera_diagnosi_strumentale3"><b>TC addome</b></string>
+    <string name="ulcera_diagnosi_strumentale4"><b>EGDS: Gold Standard</b></string>
+    <string name="ulcera_diagnosi_strumentale5"><b>ECG a 12 derivazioni</b></string>
+
+    <string name="ulcera_diagnosi_diff">Varici esofagee, MRGE, gastrite acuta, rottura di esofago, cancro dello stomaco, IMA</string>
+
+    <string name="ulcera_trattamento1"><b>Ulcera non complicata</b>: dose standard di IPP ogni 24 h o ogni 12 h per 6&#8208;8 settimane</string>
+    <string name="ulcera_trattamento2"><b>Se ulcera sanguinante</b>: i.c. di alte dosi di IPP nelle prime 72h (Esomeprazolo 80mg in bolo, seguito da 8mg/h in i.c.): IPP per 6&#8208;8 settimane</string>
+    <string name="ulcera_trattamento3"><b>Se ulcera perforata</b>: terapia antibiotica empirica ad ampio spettro (vedi schema)</string>
+    <string name="ulcera_trattamento4"><b>Se presente Helicobacter pylori</b>: terapia eradicante</string>
+    <string name="ulcera_trattamento5">Visita endoscopia digestiva per timing EGDS</string>
+    <string name="ulcera_trattamento6">Visita chirurgica</string>
+
+    <string name="ulcera_note1">Ulcera sanguinante</string>
+    <string name="ulcera_note2"><b>Glasgow&#8208;Blatchford score:</b></string>
+    <string name="ulcera_note3">= 0 <u>basso rischio</u> endoscopia a breve termine (&lt;24h)</string>
+    <string name="ulcera_note4">&gt; 0 <u>alto rischio</u> endoscopia urgente (&lt;12h)</string>
+
+</resources>

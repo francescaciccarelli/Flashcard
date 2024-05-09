@@ -129,7 +129,27 @@
         </activity>
 
         <activity
-            android:name=".PatologiaDisturbiAnorettali"
+            android:name=".PatologiaColelitiasiClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaColelitiasiDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaColelitiasiDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaColelitiasiTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaColelitiasiNote"
             android:exported="true">
         </activity>
 
@@ -139,7 +159,82 @@
         </activity>
 
         <activity
+            android:name=".PatologiaDiverticoliteClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDiverticoliteDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDiverticoliteDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDiverticoliteTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDisturbiAnorettali"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDisturbiAnorettaliClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDisturbiAnorettaliDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDisturbiAnorettaliPrincipaliCause"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaDisturbiAnorettaliTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaEmorragieDigestive"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestiveClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestiveDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestiveDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestiveTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestiveSuperiori"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaEmorragieDigestiveInferiori"
             android:exported="true">
         </activity>
 
@@ -149,7 +244,42 @@
         </activity>
 
         <activity
+            android:name=".PatologiaErnieClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaErnieDiagnosiClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaErnieDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaErnieTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaIngestioneCaustici"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCausticiClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCausticiDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCausticiTrattamento"
             android:exported="true">
         </activity>
 
@@ -159,7 +289,57 @@
         </activity>
 
         <activity
+            android:name=".PatologiaIngestioneCorpiClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCorpiDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCorpiTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCorpiCasiParticolari"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIngestioneCorpiNote"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaInsufficienzaEpatica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaInsufficienzaEpaticaClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaInsufficienzaEpaticaDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaInsufficienzaEpaticaDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaInsufficienzaEpaticaCause"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaInsufficienzaEpaticaTrattamento"
             android:exported="true">
         </activity>
 
@@ -169,7 +349,47 @@
         </activity>
 
         <activity
+            android:name=".PatologiaIschemiaClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIschemiaDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIschemiaDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaIschemiaTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaOcclusione"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaOcclusioneClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaOcclusioneDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaOcclusioneDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaOcclusioneTrattamento"
             android:exported="true">
         </activity>
 
@@ -179,7 +399,47 @@
         </activity>
 
         <activity
+            android:name=".PatologiaPancreatiteClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPancreatiteDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPancreatiteDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPancreatiteTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaPerforazione"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPerforazioneClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPerforazioneDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPerforazioneDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaPerforazioneTrattamento"
             android:exported="true">
         </activity>
 
@@ -189,7 +449,52 @@
         </activity>
 
         <activity
+            android:name=".PatologiaRMICIClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRMICIDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRMICIDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRMICITrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRMICINote"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaRottura"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRotturaClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRotturaDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRotturaDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaRotturaTrattamento"
             android:exported="true">
         </activity>
 
@@ -199,7 +504,52 @@
         </activity>
 
         <activity
+            android:name=".PatologiaSindromeClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaSindromeDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaSindromeDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaSindromeTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".PatologiaUlcera"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaUlceraClinica"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaUlceraDiagnosi"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaUlceraDiagnosiDifferenziale"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaUlceraTrattamento"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".PatologiaUlceraNote"
             android:exported="true">
         </activity>
 

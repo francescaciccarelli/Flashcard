@@ -8,22 +8,26 @@
 
         <item
             android:id="@+id/nav_gastroenterico"
-            android:title="@string/title_section1" >
+            android:icon="@drawable/section1"
+            android:title="@string/title_menu_section1">
 
             <menu>
-                <!-- Aggiungi le sottovoci per "Patologie", "Sintomi", "Complicanze" e "Contenuti aggiuntivi" -->
                 <group android:checkableBehavior="single">
                     <item
                         android:id="@+id/nav_patologie"
+                        android:icon="@drawable/menu1"
                         android:title="@string/patologie" />
                     <item
                         android:id="@+id/nav_sintomi"
+                        android:icon="@drawable/menu2"
                         android:title="@string/sintomi" />
                     <item
                         android:id="@+id/nav_complicanze"
+                        android:icon="@drawable/menu3"
                         android:title="@string/complicanze" />
                     <item
                         android:id="@+id/nav_contenuti_aggiuntivi"
+                        android:icon="@drawable/menu4"
                         android:title="@string/aggiuntivi" />
                 </group>
             </menu>
